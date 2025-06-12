@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "d32f9d6abf7387ff",
+            "id": "c5aa4f718751b6e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记录/17岁/6月/2025-06-10~11.md",
+                "file": "感悟/先调查后行动切记盲目上手.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-10~11"
+              "title": "先调查后行动切记盲目上手"
             }
           },
           {
-            "id": "782ec06bd4329840",
+            "id": "7230760c3cb533f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "track/17岁/6月/2025-06-11.md",
+                "file": "track/17岁/6月/2025-06-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-11"
+              "title": "2025-06-12"
             }
           }
         ]
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 269.5
   },
   "right": {
     "id": "592399680159156a",
@@ -215,48 +215,48 @@
   },
   "active": "0cb29c1fc37cd8ad",
   "lastOpenFiles": [
-    "track/17岁/6月/2025-06-11.md",
-    "track/17岁/6月/2025-06-10.md",
-    "README.md",
-    "记录/17岁/6月/2025-06-10~11.md",
-    "未命名.md",
-    "计算机/CSS/Tailwind/谁适合用Tailwind，谁不适合？.md",
-    "Pasted image 20250611163848.png",
+    "感悟/先调查后行动切记盲目上手.md",
+    "track/17岁/6月/2025-06-12.md",
+    "计算机/docker/安装Docker & 换源.md",
     "未命名",
+    "计算机/docker",
+    "感悟/人的一生很有限，只能做一部分事情.md",
+    "计算机/Nodejs/pnpm管理器.md",
+    "英语词汇/计算机词汇.md",
+    "英语词汇/通用词汇.md",
+    "感悟/前端工程师和设计师的分工.md",
+    "前端设计/README.md",
+    "记录/17岁/6月/2025-06-10~12.md",
+    "前端设计",
+    "演讲与口才/better批评.md",
+    "演讲与口才/README.md",
+    "艺术",
+    "计算机/nuxt/动态路由，路由参数.md",
+    "Minecraft主流模组/信息显示/玉（高亮显示）.md",
+    "计算机/CSS/CSS像素和物理像素.md",
+    "Minecraft主流模组/光影/iris.md",
+    "计算机/CSS/Tailwind/手动切换dark模式.md",
+    "计算机/阿里云服务器/ECS 99计划.md",
+    "Minecraft主流模组/性能优化/铁氧体磁芯.md",
+    "Minecraft主流模组/信息显示/苹果皮（饱和度显示）.md",
+    "Minecraft主流模组/跟多玩法/抓钩 Grappling Hook Mod.md",
+    "track/17岁/6月/2025-06-10.md",
+    "计算机/CSS/Tailwind/Tailwind CSS插件智能提示小坑&解决.md",
+    "Minecraft主流模组/光影/锂 Lithium.md",
+    "track/17岁/6月/2025-06-11.md",
+    "演讲与口才",
+    "README.md",
+    "Pasted image 20250611163848.png",
     "记录/17岁/6月",
     "记录/17岁",
     "记录",
-    "英语词汇/计算机词汇.md",
-    "感悟/人的一生很有限，只能做一部分事情.md",
-    "计算机/阿里云服务器/不要买99计划的服务器.md",
-    "计算机/CSS/Tailwind/颜色表.md",
     "计算机/CSS/imgs/QQ截图20250611160413.png",
-    "计算机/CSS/CSS像素和物理像素.md",
     "计算机/CSS/未命名",
-    "计算机/nuxt/动态路由，路由参数.md",
-    "计算机/nuxt/404页面.md",
-    "计算机/CSS/outline和border的区别.md",
-    "感悟/通用技能和技术性技能.md",
-    "计算机/CSS/盒子模型.md",
     "计算机/CSS",
-    "计算机",
     "计算机/CSS/imgs/cbb0195ea3184447c27fff8548a83f8a.png",
-    "计算机/vue/scoped.md",
-    "感悟",
-    "计算机/vue/插槽透传.md",
-    "计算机/vue",
-    "计算机/CSS/Tailwind/手动切换dark模式.md",
-    "计算机/CSS/Tailwind/Tailwind CSS插件智能提示小坑&解决.md",
-    "计算机/CSS/Tailwind",
-    "计算机/CSS/Tailwind/TailwindCSS 推荐类顺序.md",
-    "计算机/nuxt/README.md",
-    "计算机/美化UI/checkbox改为ToggleSwitch.md",
     "计算机/CSS/imgs/QQ20250611-072225.png",
-    "Minecraft主流模组/装饰/3D皮肤层.md",
-    "计算机/CSS/relative加absolute组合技.md",
     "计算机/美化UI/imgs/QQ20250611-070850.png",
     "计算机/美化UI/imgs/QQ20250611-070828.png",
-    "计算机/阿里云服务器/对外开放端口.md",
     "track/2025/未命名.canvas"
   ]
 }
