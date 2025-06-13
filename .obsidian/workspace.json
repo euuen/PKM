@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "c5aa4f718751b6e8",
+            "id": "77d1138f3cdfa2f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "感悟/先调查后行动切记盲目上手.md",
+                "file": "track/17岁/6月/2025-06-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "先调查后行动切记盲目上手"
+              "title": "2025-06-13"
             }
           },
           {
-            "id": "7230760c3cb533f8",
+            "id": "cf8571c6e06b3e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "track/17岁/6月/2025-06-12.md",
+                "file": "情商通关手册/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-12"
+              "title": "README"
             }
           }
         ]
@@ -115,12 +115,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b8db9e88b4ac538c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
             "id": "620c3de4361f277a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nuxt/目录结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "目录结构 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -163,21 +176,6 @@
             }
           },
           {
-            "id": "b8db9e88b4ac538c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "nuxt/目录结构.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "目录结构 的大纲"
-            }
-          },
-          {
             "id": "92aa6d8af2fb36f6",
             "type": "leaf",
             "state": {
@@ -191,13 +189,11 @@
               "title": "添加笔记属性"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,48 +211,49 @@
   },
   "active": "0cb29c1fc37cd8ad",
   "lastOpenFiles": [
-    "感悟/先调查后行动切记盲目上手.md",
-    "track/17岁/6月/2025-06-12.md",
-    "计算机/docker/安装Docker & 换源.md",
-    "未命名",
-    "计算机/docker",
-    "感悟/人的一生很有限，只能做一部分事情.md",
-    "计算机/Nodejs/pnpm管理器.md",
-    "英语词汇/计算机词汇.md",
-    "英语词汇/通用词汇.md",
-    "感悟/前端工程师和设计师的分工.md",
-    "前端设计/README.md",
-    "记录/17岁/6月/2025-06-10~12.md",
-    "前端设计",
+    "track/17岁/6月/2025-06-13.md",
+    "情商通关手册/README.md",
+    "情商通关手册/情绪大于理智.md",
+    "情商通关手册/参考资料.md",
+    "情商通关手册",
+    "RU/正理和邪恶.md",
+    "演讲与口才/摘抄/惋惜阿Q，不会用好的语言求爱.md",
+    "演讲与口才/摘抄.md",
+    "演讲与口才/摘抄",
     "演讲与口才/better批评.md",
-    "演讲与口才/README.md",
-    "艺术",
-    "计算机/nuxt/动态路由，路由参数.md",
-    "Minecraft主流模组/信息显示/玉（高亮显示）.md",
-    "计算机/CSS/CSS像素和物理像素.md",
-    "Minecraft主流模组/光影/iris.md",
-    "计算机/CSS/Tailwind/手动切换dark模式.md",
-    "计算机/阿里云服务器/ECS 99计划.md",
-    "Minecraft主流模组/性能优化/铁氧体磁芯.md",
-    "Minecraft主流模组/信息显示/苹果皮（饱和度显示）.md",
-    "Minecraft主流模组/跟多玩法/抓钩 Grappling Hook Mod.md",
+    "记录/17岁/6月/2025-06-10~13.md",
+    "nuxt/serverside/编写后端middleware.md",
+    "记录/17岁/6月/imgs/Screenshot_20250613_195745.jpg",
+    "记录/17岁/6月/imgs",
+    "nuxt/实战",
+    "nuxt/serverside/编写后端route.md",
+    "nuxt/serverside/编写后端api.md",
+    "英语词汇/通用词汇.md",
+    "RU/相对主义.md",
+    "RU/社会.md",
+    "RU/人生.md",
+    "前端/vue/useState.md",
+    "nuxt/README.md",
+    "nuxt/serverside",
+    "RU/README.md",
+    "英语词汇/计算机词汇.md",
+    "RU",
+    "前端/vue/组合式还是选项式.md",
+    "nuxt/目录结构.md",
+    "nuxt/路由.md",
+    "前端/nuxt/未命名.md",
     "track/17岁/6月/2025-06-10.md",
-    "计算机/CSS/Tailwind/Tailwind CSS插件智能提示小坑&解决.md",
-    "Minecraft主流模组/光影/锂 Lithium.md",
-    "track/17岁/6月/2025-06-11.md",
-    "演讲与口才",
-    "README.md",
+    "nuxt/404页面.md",
+    "前端",
+    "计算机/docker",
+    "前端设计",
+    "艺术",
     "Pasted image 20250611163848.png",
-    "记录/17岁/6月",
-    "记录/17岁",
-    "记录",
-    "计算机/CSS/imgs/QQ截图20250611160413.png",
-    "计算机/CSS/未命名",
-    "计算机/CSS",
-    "计算机/CSS/imgs/cbb0195ea3184447c27fff8548a83f8a.png",
-    "计算机/CSS/imgs/QQ20250611-072225.png",
-    "计算机/美化UI/imgs/QQ20250611-070850.png",
-    "计算机/美化UI/imgs/QQ20250611-070828.png",
+    "前端/CSS/imgs/QQ截图20250611160413.png",
+    "前端/CSS/imgs/cbb0195ea3184447c27fff8548a83f8a.png",
+    "前端/CSS/imgs/QQ20250611-072225.png",
+    "前端设计/美化UI/imgs/QQ20250611-070850.png",
+    "前端设计/美化UI/imgs/QQ20250611-070828.png",
     "track/2025/未命名.canvas"
   ]
 }
