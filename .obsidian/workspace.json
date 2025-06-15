@@ -20,34 +20,49 @@
             }
           },
           {
-            "id": "77d1138f3cdfa2f4",
+            "id": "4317e9f5b75157f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "track/17岁/6月/2025-06-13.md",
+                "file": "前端/JWT身份验证.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-13"
+              "title": "JWT身份验证"
             }
           },
           {
-            "id": "cf8571c6e06b3e00",
+            "id": "3f5c3a7099ade305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "情商通关手册/README.md",
+                "file": "track/17岁/6月/2025-06-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-06-14"
+            }
+          },
+          {
+            "id": "fde4d49f70f15535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nuxt/serverside/编写后端api.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "编写后端api"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -79,10 +94,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "关键",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -104,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 241.5
   },
   "right": {
     "id": "592399680159156a",
@@ -120,12 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "nuxt/serverside/编写后端api.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "编写后端api 的大纲"
             }
           },
           {
@@ -193,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,51 +226,53 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "0cb29c1fc37cd8ad",
+  "active": "fde4d49f70f15535",
   "lastOpenFiles": [
+    "前端/加密.md",
+    "track/17岁/6月/2025-06-14.md",
+    "前端/JWT身份验证.md",
     "track/17岁/6月/2025-06-13.md",
+    "track/17岁/6月/2025-06-12.md",
+    "track/17岁/6月/2025-06-11.md",
+    "track/17岁/6月/2025-06-10.md",
+    "前端/CSS/Tailwind/在vue的style块中用tailwind @apply.md",
+    "演讲与口才/摘抄/因果分析、责其狭隘.md",
+    "记录/情感/关键.canvas",
+    "README.md",
+    "记录/情感/未命名.md",
+    "记录/情感",
+    "nuxt/serverside/路由.md",
+    "前端/实战/用户登陆组件.md",
+    "前端/实战/imgs/屏幕截图_20250614_124703.png",
+    "前端/实战/imgs",
+    "前端/实战",
+    "前端/vue/通过ref获取DOM.md",
+    "nuxt/serverside/编写后端api.md",
+    "nuxt/serverside/编写后端middleware.md",
+    "nuxt/serverside/编写后端route.md",
+    "前端/CSS/imgs/QQ截图20250611160413.png",
+    "前端/CSS/imgs/QQ20250611-072225.png",
+    "前端/CSS/Tailwind/颜色表.md",
+    "前端/vue/插槽透传.md",
+    "前端/CSS/Tailwind/TailwindCSS 推荐类顺序.md",
     "情商通关手册/README.md",
+    "记录/17岁/6月/2025-06-10~13.md",
     "情商通关手册/情绪大于理智.md",
     "情商通关手册/参考资料.md",
     "情商通关手册",
     "RU/正理和邪恶.md",
     "演讲与口才/摘抄/惋惜阿Q，不会用好的语言求爱.md",
-    "演讲与口才/摘抄.md",
     "演讲与口才/摘抄",
-    "演讲与口才/better批评.md",
-    "记录/17岁/6月/2025-06-10~13.md",
-    "nuxt/serverside/编写后端middleware.md",
     "记录/17岁/6月/imgs/Screenshot_20250613_195745.jpg",
     "记录/17岁/6月/imgs",
     "nuxt/实战",
-    "nuxt/serverside/编写后端route.md",
-    "nuxt/serverside/编写后端api.md",
-    "英语词汇/通用词汇.md",
-    "RU/相对主义.md",
-    "RU/社会.md",
-    "RU/人生.md",
-    "前端/vue/useState.md",
-    "nuxt/README.md",
     "nuxt/serverside",
-    "RU/README.md",
-    "英语词汇/计算机词汇.md",
     "RU",
-    "前端/vue/组合式还是选项式.md",
-    "nuxt/目录结构.md",
-    "nuxt/路由.md",
-    "前端/nuxt/未命名.md",
-    "track/17岁/6月/2025-06-10.md",
-    "nuxt/404页面.md",
     "前端",
-    "计算机/docker",
-    "前端设计",
-    "艺术",
     "Pasted image 20250611163848.png",
-    "前端/CSS/imgs/QQ截图20250611160413.png",
     "前端/CSS/imgs/cbb0195ea3184447c27fff8548a83f8a.png",
-    "前端/CSS/imgs/QQ20250611-072225.png",
-    "前端设计/美化UI/imgs/QQ20250611-070850.png",
-    "前端设计/美化UI/imgs/QQ20250611-070828.png",
+    "设计/美化UI/imgs/QQ20250611-070850.png",
+    "设计/美化UI/imgs/QQ20250611-070828.png",
     "track/2025/未命名.canvas"
   ]
 }

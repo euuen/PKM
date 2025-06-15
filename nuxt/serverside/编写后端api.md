@@ -15,4 +15,5 @@ export default defineEventHandler((event) => {
 
 ```ts
 const { data } = useFetch('/api/hello')
+let hello = data.value?.hello
 ```
