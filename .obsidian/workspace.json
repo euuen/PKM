@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "fe76420c5e90555c",
+            "id": "4d150e27ee22558f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/miniconda.md",
+                "file": "Linux/设置代理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "miniconda"
+              "title": "设置代理"
             }
           }
         ],
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "代理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,11 +87,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 280.5
   },
   "right": {
     "id": "592399680159156a",
@@ -107,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nuxt/serverside/编写后端api.md",
+                "file": "Linux/设置代理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "编写后端api 的大纲"
+              "title": "设置代理 的大纲"
             }
           },
           {
@@ -181,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,46 +198,46 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "fe76420c5e90555c",
+  "active": "4d150e27ee22558f",
   "lastOpenFiles": [
-    "blender/原理化 BSDF详解.md",
-    "python/miniconda.md",
-    "python",
-    "社会观察/应试教育和个性冲突.md",
-    "英语词汇/通用词汇.md",
-    "track/17岁/6月/2025-06-15.md",
-    "track/17岁/6月/2025-06-12.md",
-    "README.md",
-    "blender/HDR.md",
-    "blender",
-    "社会观察",
-    "英语词汇/计算机词汇.md",
-    "C++/std/optional.md",
+    "nuxt/目录结构.md",
+    "记录/TimeTable.md",
     "算法/boids/huier.jpg",
     "算法/boids/boids算法.md",
+    "学习的学习/README.md",
+    "README.md",
+    "track/17岁/6月/2025-06-17.md",
+    "与社会接轨/情商通关手册/参考资料.md",
+    "与社会接轨/情商通关手册/正确的恋爱观.md",
+    "与社会接轨/穿搭/职场.md",
+    "与社会接轨/穿搭",
+    "Linux/设置代理.md",
+    "与社会接轨/README.md",
+    "与社会接轨/情商通关手册/案例/男人的嘴骗人的鬼.md",
+    "与社会接轨/演讲与口才/README.md",
+    "与社会接轨",
+    "track/17岁/6月/2025-06-10.md",
+    "track/17岁/6月/2025-06-16.md",
+    "RU/人生.md",
+    "与社会接轨/情商通关手册/服从性测试.md",
+    "学习的学习",
+    "Linux/KDE快捷键.md",
+    "与社会接轨/情商通关手册/案例/你是不是喜欢我？.md",
+    "与社会接轨/情商通关手册/案例/我好累，我好困.md",
+    "与社会接轨/情商通关手册/人性弱点.md",
+    "track/17岁/6月/2025-06-13.md",
+    "track/17岁/6月/2025-06-14.md",
+    "track/17岁/6月/2025-06-15.md",
+    "与社会接轨/情商通关手册/思想转变.md",
+    "与社会接轨/情商通关手册/README.md",
+    "与社会接轨/情商通关手册/案例",
+    "python",
+    "blender",
+    "与社会接轨/社会观察",
     "算法/boids/brun.sh",
     "算法/boids/run.sh",
     "算法/boids/main.cpp",
-    "算法/boids/CMakeLists.txt",
-    "算法/boids",
-    "算法",
-    "C++/README.md",
-    "Linux/编写可以直接执行的sh.md",
-    "C++/std",
-    "C++/在项目中使用CMake.md",
-    "前端/JWT身份验证.md",
-    "track/17岁/6月/2025-06-14.md",
-    "nuxt/serverside/编写后端api.md",
     "记录/情感/关键.canvas",
-    "前端/加密.md",
-    "track/17岁/6月/2025-06-13.md",
-    "track/17岁/6月/2025-06-11.md",
-    "track/17岁/6月/2025-06-10.md",
-    "前端/CSS/Tailwind/在vue的style块中用tailwind @apply.md",
-    "演讲与口才/摘抄/因果分析、责其狭隘.md",
-    "记录/情感/未命名.md",
-    "nuxt/serverside/路由.md",
-    "前端/实战/用户登陆组件.md",
     "前端/实战/imgs/屏幕截图_20250614_124703.png",
     "前端/CSS/imgs/QQ截图20250611160413.png",
     "前端/CSS/imgs/QQ20250611-072225.png",
