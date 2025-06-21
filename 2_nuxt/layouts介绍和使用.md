@@ -25,3 +25,19 @@
 ```vue
 <NuxtLayout name="home" />
 ```
+
+# 正确的使用姿势
+
+在app.vue如下：
+
+```vue
+<template>
+	<div>
+		<NuxtLayout>
+			<NuxtPage />
+		</NuxtLayout>
+	</div>
+</template>
+```
+
+不要把`NuxtLayout`放`page`中呈现啊，要不然做页面过渡的时候很丑啊。
