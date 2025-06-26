@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f358540ea5fea934",
+        "id": "fa2cfa0535729c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "5b00a884b7d6f6b7",
+            "id": "9a2ad27fd26188b0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
-          },
-          {
-            "id": "074fe0372d4cb8b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1track/17岁/6月/2025-06-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-26"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:书",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1track/17岁/6月/2025-06-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-06-26 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -199,57 +181,57 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "074fe0372d4cb8b6",
+  "active": "9a2ad27fd26188b0",
   "lastOpenFiles": [
-    "1track/17岁/6月/2025-06-25.md",
-    "1track/17岁/6月/2025-06-26.md",
-    "记录/想买和看的书.md",
-    "1track/18岁/2月/2026-02-01.md",
-    "1track/17岁/6月/2025-06-27.md",
-    "1track/18岁/2月",
-    "1track/18岁",
-    "1track/17岁/6月/2025-06-20.md",
-    "博客/为什么不建议你早结婚？.md",
-    "未命名.md",
-    "博客/为什么推荐你写博客.md",
-    "博客/学习的本质.md",
-    "博客/pri怎么了.md",
-    "📚札记/教育心理学/摘抄.md",
-    "感悟/金句.md",
-    "1track/17岁/6月/2025-06-23.md",
-    "📚札记/原生家庭/202506231329.md",
-    "📚札记/教育心理学",
-    "1track/17岁/6月/2025-06-24.md",
-    "运维/docker/安装Docker & 换源.md",
-    "与社会接轨/情商通关手册/案例/我好累，我好困.md",
-    "与社会接轨/情商通关手册/案例/你是不是喜欢我？.md",
-    "与社会接轨/情商通关手册/案例/男人的嘴骗人的鬼.md",
-    "与社会接轨/情商通关手册/人性弱点.md",
-    "与社会接轨/情商通关手册/情绪大于理智.md",
-    "与社会接轨/情商通关手册/服从性测试.md",
-    "与社会接轨/情商通关手册/参考资料.md",
-    "与社会接轨/穿搭/职场.md",
-    "感悟/先调查后行动切记盲目上手.md",
-    "Pasted image 20250623131837.png",
-    "📚札记/原生家庭",
-    "📚札记",
-    "与社会接轨/原生家庭",
-    "认知拓宽",
-    "博客",
+    "HowToCook/dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md",
+    "Linux/设置代理.md",
+    "HowToCook/README.md",
+    "HowToCook/dishes/drink/酸梅汤/imges/sour_plum_soup.jpg",
+    "HowToCook/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
+    "HowToCook/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.jpg",
+    "HowToCook/dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
+    "HowToCook/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
+    "HowToCook/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.jpg",
+    "HowToCook/dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md",
+    "HowToCook/dishes/vegetable_dish/话梅煮毛豆/1.jpeg",
+    "HowToCook/dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
+    "HowToCook/dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.jpeg",
+    "HowToCook/dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
+    "HowToCook/dishes/vegetable_dish/西红柿豆腐汤羹/1.jpeg",
+    "HowToCook/dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
+    "HowToCook/dishes/vegetable_dish/蚝油三鲜菇/2.jpeg",
+    "HowToCook/dishes/vegetable_dish/蚝油三鲜菇/1.jpeg",
+    "HowToCook/dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
+    "HowToCook/dishes/vegetable_dish/虎皮青椒/虎皮青椒.jpg",
+    "HowToCook/dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
+    "HowToCook/dishes/vegetable_dish/蒜蓉空心菜/1.JPG",
+    "HowToCook/dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
+    "HowToCook/dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
+    "HowToCook/dishes/vegetable_dish/茭白炒肉/茭白炒肉.md",
+    "HowToCook/dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
+    "HowToCook/dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
+    "HowToCook/dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
+    "HowToCook/dishes/vegetable_dish/白灼菜心/白灼菜心.md",
+    "HowToCook/dishes/vegetable_dish/烤茄子/烤茄子.md",
+    "HowToCook/dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+    "HowToCook/dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
+    "HowToCook/dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
+    "HowToCook/dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
+    "HowToCook/dishes/vegetable_dish/椒盐玉米/椒盐玉米.md",
+    "HowToCook/dishes/vegetable_dish/手撕包菜/手撕包菜.md",
+    "HowToCook/dishes/drink/酸梅汤/imges",
+    "HowToCook/dishes/vegetable_dish/鸡蛋羹",
+    "HowToCook/dishes/vegetable_dish/话梅煮毛豆",
+    "HowToCook/dishes/vegetable_dish/西葫芦炒鸡蛋",
+    "HowToCook/dishes/vegetable_dish/西红柿豆腐汤羹",
+    "HowToCook/dishes/vegetable_dish/蚝油三鲜菇",
+    "HowToCook/dishes/vegetable_dish/虎皮青椒",
+    "HowToCook/dishes/vegetable_dish/蒜蓉空心菜",
+    "HowToCook/dishes/vegetable_dish/菠菜炒鸡蛋",
+    "HowToCook/dishes/vegetable_dish/莴笋叶煎饼",
     "草稿/UpdateRate.canvas",
-    "草稿",
     "未命名.canvas",
-    "2nuxt/中间件",
-    "算法/boids/huier.jpg",
     "记录/情感/关键.canvas",
-    "前端/实战/imgs/屏幕截图_20250614_124703.png",
-    "前端/CSS/imgs/QQ截图20250611160413.png",
-    "前端/CSS/imgs/QQ20250611-072225.png",
-    "记录/17岁/6月/imgs/Screenshot_20250613_195745.jpg",
-    "Pasted image 20250611163848.png",
-    "前端/CSS/imgs/cbb0195ea3184447c27fff8548a83f8a.png",
-    "设计/美化UI/imgs/QQ20250611-070850.png",
-    "设计/美化UI/imgs/QQ20250611-070828.png",
     "track/2025/未命名.canvas"
   ]
 }
