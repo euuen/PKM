@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fa2cfa0535729c0e",
+        "id": "08822fc589b57246",
         "type": "tabs",
         "children": [
           {
-            "id": "9a2ad27fd26188b0",
+            "id": "53f452ee2cf8256d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "博客（草稿）/人要为了自己之前的行为承担代价.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "人要为了自己之前的行为承担代价"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 354.5
   },
   "right": {
     "id": "592399680159156a",
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "博客（草稿）/人要为了自己之前的行为承担代价.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "人要为了自己之前的行为承担代价 的大纲"
             }
           },
           {
@@ -164,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +185,29 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "9a2ad27fd26188b0",
+  "active": "53f452ee2cf8256d",
   "lastOpenFiles": [
+    "设计/极简主义风格（黑白）.md",
+    "设计/Dark模式设计感想.md",
+    "设计/README.md",
+    "博客/接触多元观点的利弊和方法.md",
+    "博客/好博客编写指南.md",
+    "博客/学习的本质.md",
+    "未命名",
+    "博客（草稿）/学习的本质.md",
+    "博客（草稿）/为什么推荐你写博客.md",
+    "博客（草稿）/为什么不建议你早结婚？.md",
+    "博客（草稿）/人要为了自己之前的行为承担代价.md",
+    "博客（草稿）/好博客编写指南.md",
+    "博客",
+    "未命名 1",
+    "RU/父母.md",
+    "1track/17岁/6月/2025-06-27.md",
+    "1track/17岁/6月/2025-06-13.md",
+    "1track/17岁/6月/2025-06-23.md",
+    "1track/17岁/6月/2025-06-26.md",
+    "1track/17岁/6月/2025-06-28.md",
+    "1track/17岁/6月/2025-06-12.md",
     "HowToCook/dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md",
     "Linux/设置代理.md",
     "HowToCook/README.md",
@@ -196,29 +221,11 @@
     "HowToCook/dishes/vegetable_dish/话梅煮毛豆/1.jpeg",
     "HowToCook/dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
     "HowToCook/dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.jpeg",
-    "HowToCook/dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
     "HowToCook/dishes/vegetable_dish/西红柿豆腐汤羹/1.jpeg",
-    "HowToCook/dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
     "HowToCook/dishes/vegetable_dish/蚝油三鲜菇/2.jpeg",
     "HowToCook/dishes/vegetable_dish/蚝油三鲜菇/1.jpeg",
-    "HowToCook/dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
     "HowToCook/dishes/vegetable_dish/虎皮青椒/虎皮青椒.jpg",
-    "HowToCook/dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
     "HowToCook/dishes/vegetable_dish/蒜蓉空心菜/1.JPG",
-    "HowToCook/dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
-    "HowToCook/dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
-    "HowToCook/dishes/vegetable_dish/茭白炒肉/茭白炒肉.md",
-    "HowToCook/dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
-    "HowToCook/dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
-    "HowToCook/dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
-    "HowToCook/dishes/vegetable_dish/白灼菜心/白灼菜心.md",
-    "HowToCook/dishes/vegetable_dish/烤茄子/烤茄子.md",
-    "HowToCook/dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
-    "HowToCook/dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
-    "HowToCook/dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
-    "HowToCook/dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
-    "HowToCook/dishes/vegetable_dish/椒盐玉米/椒盐玉米.md",
-    "HowToCook/dishes/vegetable_dish/手撕包菜/手撕包菜.md",
     "HowToCook/dishes/drink/酸梅汤/imges",
     "HowToCook/dishes/vegetable_dish/鸡蛋羹",
     "HowToCook/dishes/vegetable_dish/话梅煮毛豆",
@@ -226,9 +233,6 @@
     "HowToCook/dishes/vegetable_dish/西红柿豆腐汤羹",
     "HowToCook/dishes/vegetable_dish/蚝油三鲜菇",
     "HowToCook/dishes/vegetable_dish/虎皮青椒",
-    "HowToCook/dishes/vegetable_dish/蒜蓉空心菜",
-    "HowToCook/dishes/vegetable_dish/菠菜炒鸡蛋",
-    "HowToCook/dishes/vegetable_dish/莴笋叶煎饼",
     "草稿/UpdateRate.canvas",
     "未命名.canvas",
     "记录/情感/关键.canvas",
