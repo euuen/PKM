@@ -134,6 +134,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-Records/
+记录/
+video/
 
 pri*

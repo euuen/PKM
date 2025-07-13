@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b2d99a62731690c3",
+        "id": "2fccd58c3c180153",
         "type": "tabs",
         "children": [
           {
-            "id": "a6540e3191b47fa3",
+            "id": "1b3ac56c7373fea7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1track/17岁/7月/2025-07-02.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-02"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "代理",
+                "query": "electron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 279.5
   },
   "right": {
     "id": "592399680159156a",
@@ -94,12 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "羽毛球工作/工时记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "工时记录 的大纲"
             }
           },
           {
@@ -168,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,45 +181,46 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "a6540e3191b47fa3",
+  "active": "b2e6e3abf41083b8",
   "lastOpenFiles": [
-    "old/stem.md",
-    "old/index.md",
-    "old/computer.md",
-    "old/Typora/intro.md",
-    "old/Typora",
-    "old/SQL/tutorial/intro.md",
-    "old/SQL/tutorial/basic.md",
-    "old/SQL/tutorial",
-    "old/SQL",
-    "old/public/imgs/reg.jpg",
-    "old/public/math.js",
-    "old/public/imgs",
-    "old/public/favicon.ico",
-    "old/public",
-    "old/Math/tutorial/intro.md",
+    "羽毛球工作/工时记录.md",
+    "羽毛球工作/工作内容汇总.md",
+    "羽毛球工作/video/mmexport1751681898192.mp4",
+    "算法/boids/boids算法.md",
+    "算法/boids/huier.jpg",
+    "牢SNT/stem.md",
+    "牢SNT/GLFW/tutorial/intro.md",
+    "牢SNT/GLFW/cookbook/basicWindow.md",
+    "1track/17岁/7月/2025-07-13.md",
+    "设计/simplenote/simplenote的颜色基调.md",
+    "设计/simplenote",
+    "樱花内网穿透/Arch Linux使用樱花内网穿透frp.md",
+    "牢SNT/Electron/tutorial/intro.md",
+    "樱花内网穿透",
+    "Electron/tutorial/intro.md",
+    "牢SNT/computer.md",
+    "Electron/tutorial",
+    "Electron",
+    "Linux/Linux设置代理.md",
+    "1track/17岁/6月/2025-06-17.md",
+    "1track/17岁/6月/2025-06-12.md",
+    "运维/阿里云服务器/不要买99计划的服务器.md",
+    "运维/docker/安装Docker & 换源.md",
+    "git/工作区.md",
+    "记录/PWD.md",
+    "git",
+    "牢SNT/HTML/cookbook/betterImg.md",
+    "牢SNT/Java/cookbook/database.md",
+    "牢SNT/Java/cookbook/file.md",
     "old/Math/geometry/triangle.md",
+    "old/Math/tutorial/intro.md",
     "old/Math/journal/1.md",
-    "old/Math/tutorial",
-    "old/Math/journal",
-    "old/Math/geometry",
-    "old/Java/tutorial/intro.md",
-    "old/Java/cookbook/file.md",
-    "old/Java/cookbook/database.md",
-    "old/HTML/tutorial/intro.md",
-    "old/HTML/cookbook/betterImg.md",
-    "old/GLFW/tutorial/intro.md",
-    "old/GLFW/dict/basic.md",
-    "old/GLFW/cookbook/basicWindow.md",
-    "old/GLEW/tutorial/intro.md",
-    "old/GLEW/cookbook/shader.md",
-    "old/GLEW/cookbook/content.md",
-    "old/GLEW/cookbook/buffer.md",
-    "old/Electron/tutorial/intro.md",
-    "old/CPP/tutorial/intro.md",
-    "old/CPP/errors/linkerror.md",
-    "1track/17岁/7月/2025-07-03.md",
-    "1track/17岁/7月/2025-07-02.md",
+    "old/public/imgs/reg.jpg",
+    "牢SNT/SQL/tutorial/basic.md",
+    "pearl",
+    "羽毛球工作/日结",
+    "羽毛球工作/video/mmexport1751682106665.mp4",
+    "羽毛球工作/video",
     "CookBook/dishes/drink/酸梅汤/imges/sour_plum_soup.jpg",
     "CookBook/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.jpg",
     "CookBook/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.jpg",
@@ -232,10 +229,9 @@
     "CookBook/dishes/vegetable_dish/西红柿豆腐汤羹/1.jpeg",
     "CookBook/dishes/vegetable_dish/蚝油三鲜菇/2.jpeg",
     "CookBook/dishes/vegetable_dish/蚝油三鲜菇/1.jpeg",
-    "CookBook/dishes/vegetable_dish/虎皮青椒/虎皮青椒.jpg",
     "草稿/UpdateRate.canvas",
     "未命名.canvas",
-    "Records/情感/关键.canvas",
+    "记录/情感/关键.canvas",
     "track/2025/未命名.canvas"
   ]
 }
