@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fccd58c3c180153",
+        "id": "a3c562f94a00c929",
         "type": "tabs",
         "children": [
           {
-            "id": "1b3ac56c7373fea7",
+            "id": "2a4b489aae02d52c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "羽毛球工作/工时记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工时记录 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -181,9 +180,16 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "b2e6e3abf41083b8",
+  "active": "2a4b489aae02d52c",
   "lastOpenFiles": [
+    "Blog/现代人的新贫穷循环困境.md",
+    "Blog/我的乐观虚无主义.md",
+    "读后感/教育心理学/摘抄.md",
+    "DeepSeek/突破限制的提示词.md",
+    "DeepSeek",
     "羽毛球工作/工时记录.md",
+    "BadmintonWork/工作内容汇总.md",
+    "BadmintonWork",
     "羽毛球工作/工作内容汇总.md",
     "羽毛球工作/video/mmexport1751681898192.mp4",
     "算法/boids/boids算法.md",
@@ -211,16 +217,9 @@
     "git",
     "牢SNT/HTML/cookbook/betterImg.md",
     "牢SNT/Java/cookbook/database.md",
-    "牢SNT/Java/cookbook/file.md",
-    "old/Math/geometry/triangle.md",
-    "old/Math/tutorial/intro.md",
-    "old/Math/journal/1.md",
     "old/public/imgs/reg.jpg",
-    "牢SNT/SQL/tutorial/basic.md",
     "pearl",
     "羽毛球工作/日结",
-    "羽毛球工作/video/mmexport1751682106665.mp4",
-    "羽毛球工作/video",
     "CookBook/dishes/drink/酸梅汤/imges/sour_plum_soup.jpg",
     "CookBook/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.jpg",
     "CookBook/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.jpg",
