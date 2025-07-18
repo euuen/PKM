@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a3c562f94a00c929",
+        "id": "4a1154a3da7e2e5f",
         "type": "tabs",
         "children": [
           {
-            "id": "2a4b489aae02d52c",
+            "id": "c7dc10a0fe142c53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Blog/任用一个人之前一定先确定他是否适合这个岗位.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "任用一个人之前一定先确定他是否适合这个岗位"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Blog/任用一个人之前一定先确定他是否适合这个岗位.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "任用一个人之前一定先确定他是否适合这个岗位 的大纲"
             }
           },
           {
@@ -180,8 +185,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "2a4b489aae02d52c",
+  "active": "c7dc10a0fe142c53",
   "lastOpenFiles": [
+    "Blog/任用一个人之前一定先确定他是否适合这个岗位.md",
     "Blog/现代人的新贫穷循环困境.md",
     "Blog/我的乐观虚无主义.md",
     "读后感/教育心理学/摘抄.md",
@@ -216,7 +222,6 @@
     "记录/PWD.md",
     "git",
     "牢SNT/HTML/cookbook/betterImg.md",
-    "牢SNT/Java/cookbook/database.md",
     "old/public/imgs/reg.jpg",
     "pearl",
     "羽毛球工作/日结",
