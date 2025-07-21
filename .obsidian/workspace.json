@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4a1154a3da7e2e5f",
+        "id": "733b32a267aa16a2",
         "type": "tabs",
         "children": [
           {
-            "id": "c7dc10a0fe142c53",
+            "id": "cc90d29c00a919d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/任用一个人之前一定先确定他是否适合这个岗位.md",
+                "file": "人生百问/生活篇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "任用一个人之前一定先确定他是否适合这个岗位"
+              "title": "生活篇"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electron",
+                "query": "path:pwd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/任用一个人之前一定先确定他是否适合这个岗位.md",
+                "file": "人生百问/生活篇.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "任用一个人之前一定先确定他是否适合这个岗位 的大纲"
+              "title": "生活篇 的大纲"
             }
           },
           {
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,46 +185,46 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "c7dc10a0fe142c53",
+  "active": "cc90d29c00a919d4",
   "lastOpenFiles": [
-    "Blog/任用一个人之前一定先确定他是否适合这个岗位.md",
-    "Blog/现代人的新贫穷循环困境.md",
-    "Blog/我的乐观虚无主义.md",
-    "读后感/教育心理学/摘抄.md",
-    "DeepSeek/突破限制的提示词.md",
-    "DeepSeek",
-    "羽毛球工作/工时记录.md",
-    "BadmintonWork/工作内容汇总.md",
-    "BadmintonWork",
-    "羽毛球工作/工作内容汇总.md",
-    "羽毛球工作/video/mmexport1751681898192.mp4",
-    "算法/boids/boids算法.md",
-    "算法/boids/huier.jpg",
-    "牢SNT/stem.md",
-    "牢SNT/GLFW/tutorial/intro.md",
-    "牢SNT/GLFW/cookbook/basicWindow.md",
-    "1track/17岁/7月/2025-07-13.md",
-    "设计/simplenote/simplenote的颜色基调.md",
-    "设计/simplenote",
-    "樱花内网穿透/Arch Linux使用樱花内网穿透frp.md",
-    "牢SNT/Electron/tutorial/intro.md",
-    "樱花内网穿透",
-    "Electron/tutorial/intro.md",
-    "牢SNT/computer.md",
-    "Electron/tutorial",
-    "Electron",
-    "Linux/Linux设置代理.md",
-    "1track/17岁/6月/2025-06-17.md",
-    "1track/17岁/6月/2025-06-12.md",
-    "运维/阿里云服务器/不要买99计划的服务器.md",
-    "运维/docker/安装Docker & 换源.md",
-    "git/工作区.md",
+    "人生百问/README.md",
+    "人生百问/生活篇.md",
+    "人生百问/社会篇.md",
+    "人生百问/社会篇/未命名.md",
+    "人生百问/社会篇",
     "记录/PWD.md",
-    "git",
-    "牢SNT/HTML/cookbook/betterImg.md",
+    "人生百问/生活篇",
+    "人生百问",
+    "collection.md",
+    "重构理解/未命名.md",
+    "英语单词/README.md",
+    "算法/README.md",
+    "读后感/README.md",
+    "感悟/README.md",
+    "2nuxt/README.md",
+    "2nuxt/未命名.md",
+    "视频创作/README.md",
+    "1track/17岁/7月/2025-07-20.md",
+    "博客/家庭中重要角色之一 爸爸.md",
+    "视频创作/视频灵感.md",
+    "博客/高效率完成事情的顺序.md",
+    "视频创作",
+    "博客/长沙理工我来了！！.md",
+    "博客/未命名",
+    "git/工作区.md",
+    "DeepSeek/突破限制的提示词.md",
+    "设计/simplenote/simplenote的颜色基调.md",
+    "社交/穿搭/职场.md",
+    "社交/README.md",
+    "英语单词/计算机词汇.md",
+    "英语单词/参考资料.md",
+    "DeepSeek",
+    "BadmintonWork",
+    "羽毛球工作/video/mmexport1751681898192.mp4",
+    "算法/boids/huier.jpg",
+    "设计/simplenote",
+    "樱花内网穿透",
     "old/public/imgs/reg.jpg",
-    "pearl",
-    "羽毛球工作/日结",
     "CookBook/dishes/drink/酸梅汤/imges/sour_plum_soup.jpg",
     "CookBook/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.jpg",
     "CookBook/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.jpg",

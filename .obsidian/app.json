@@ -3,5 +3,9 @@
   "strictLineBreaks": true,
   "showLineNumber": true,
   "spellcheck": false,
-  "autoConvertHtml": true
+  "autoConvertHtml": true,
+  "readableLineLength": false,
+  "newLinkFormat": "shortest",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
 }
