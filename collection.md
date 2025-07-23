@@ -9,6 +9,9 @@
 
 [[2nuxt/README]]
 [[算法/README]]
+[[Linux/README]]
+[[git/README]]
+[[Electron/README]]
 
 # 视频创作
 
@@ -17,3 +20,7 @@
 # 英语
 
 [[英语单词/README]]
+
+# 情感
+
+[[情商通关手册/README]]
