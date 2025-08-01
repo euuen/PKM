@@ -1,3 +1,6 @@
+# C++
+[[Cpp/README]]
+[[CMake/README]]
 # 博客
 
 [[博客/README]]
@@ -12,6 +15,7 @@
 [[Linux/README]]
 [[git/README]]
 [[Electron/README]]
+[[Linux/README]]
 
 # 视频创作
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "29440f2cfdaf9439",
+        "id": "3c798ebf97adfbf7",
         "type": "tabs",
         "children": [
           {
-            "id": "e584b087056d199a",
+            "id": "e8a2e1fc50ac02ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1track/17岁/7月/2025-07-23.md",
+                "file": "collection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-23"
+              "title": "collection"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:pwd",
+                "query": "path:cmake",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 349.5
   },
   "right": {
     "id": "592399680159156a",
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1track/17岁/7月/2025-07-23.md",
+                "file": "collection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-23 的大纲"
+              "title": "collection 的大纲"
             }
           },
           {
@@ -185,46 +185,46 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "e584b087056d199a",
+  "active": "b2e6e3abf41083b8",
   "lastOpenFiles": [
-    "博客/巧用浏览器进行深度思考.md",
-    "1track/17岁/7月/2025-07-23.md",
-    "1track/17岁/7月/2025-07-22.md",
-    "博客/imgs/屏幕截图_20250722_102815.png",
+    "CMake/添加一个目录下所有的源文件到CMake里.md",
+    "CMake/CMAKE_SOURCE_DIR变量.md",
+    "CMake/EXECUTABLE_OUTPUT_PATH变量.md",
+    "CMake/PROJECT_BINARY_DIR变量.md",
+    "CMake/CMake指定C++编译器路径.md",
+    "CMake/在CMake中添加子项目.md",
+    "CMake/在CMake里添加头文件.md",
+    "CMake/添加支持clangd语法提示.md",
+    "CMake/添加源文件在CMake里.md",
+    "CMake/生成链接库.md",
+    "CMake/链接库到可执行文件中.md",
+    "CMake/最小的CMakeList.md",
+    "Cpp/在项目中使用CMake.md",
+    "python/miniconda.md",
     "collection.md",
+    "视频创作/README.md",
+    "视频创作/视频灵感.md",
+    "视频创作/什么是达芬奇软件.md",
+    "CMake/README.md",
+    "pearl/README.md",
+    "pearl/示例代码.md",
+    "CMake",
+    "stm32f103c8t6/烧录程序到stm32中.md",
+    "stm32f103c8t6",
+    "博客/1-欲作其事先谋其权.md",
+    "博客/3-人的气质装不出来.md",
+    "博客/2-想要被爱首先学会怎么爱.md",
+    "博客/2-.md",
+    "博客/imgs/屏幕截图_20250722_102815.png",
     "博客/imgs",
-    "Electron/README.md",
-    "git/README.md",
-    "Linux/README.md",
-    "重构理解/社会.md",
-    "重构理解/正理和邪恶.md",
-    "重构理解/相对主义.md",
-    "重构理解/README.md",
-    "情商通关手册/README.md",
-    "人生百问/生活篇.md",
-    "人生百问/README.md",
-    "人生百问/社会篇.md",
-    "人生百问/社会篇/未命名.md",
     "人生百问/社会篇",
-    "记录/PWD.md",
     "人生百问/生活篇",
     "人生百问",
-    "重构理解/未命名.md",
-    "英语单词/README.md",
-    "算法/README.md",
-    "读后感/README.md",
-    "感悟/README.md",
-    "2nuxt/README.md",
-    "2nuxt/未命名.md",
-    "视频创作/README.md",
-    "1track/17岁/7月/2025-07-20.md",
     "视频创作",
     "DeepSeek",
     "BadmintonWork",
     "羽毛球工作/video/mmexport1751681898192.mp4",
     "算法/boids/huier.jpg",
-    "设计/simplenote",
-    "樱花内网穿透",
     "old/public/imgs/reg.jpg",
     "CookBook/dishes/drink/酸梅汤/imges/sour_plum_soup.jpg",
     "CookBook/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.jpg",
