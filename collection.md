@@ -1,3 +1,9 @@
+# stm32
+[[stm32f103c8t6♥️/README]]
+
+# 复用芯片
+[[嵌入式术语🟩/README]]
+
 # C++
 [[Cpp/README]]
 [[CMake/README]]
@@ -10,7 +16,7 @@
 
 # 计算机
 
-[[2nuxt/README]]
+[[3-nuxt⚡/README]]
 [[算法/README]]
 [[Linux/README]]
 [[git/README]]
@@ -19,7 +25,7 @@
 
 # 视频创作
 
-[[视频创作/README]]
+[[4-视频创作/README]]
 
 # 英语
 
