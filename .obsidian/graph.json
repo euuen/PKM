@@ -8,10 +8,17 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:stm32f103c8t6♥️  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 2828492
+      }
+    },
+    {
+      "query": "path:5-blender",
+      "color": {
+        "a": 1,
+        "rgb": 16693761
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 0.541580041580042,
   "linkDistance": 30,
-  "scale": 0.08838991787130762,
+  "scale": 0.13258487680696118,
   "close": true
 }

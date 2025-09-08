@@ -1,0 +1,1 @@
+Markdown编辑器用的是Obsdian。

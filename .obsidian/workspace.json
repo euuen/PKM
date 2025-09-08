@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2825fa3c3cd2111b",
+        "id": "4c32d7860b48dba3",
         "type": "tabs",
         "children": [
           {
-            "id": "6677ed067e67283e",
+            "id": "a35de8d6d910d5ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码规范/代码规范.md",
+                "file": "社交/演讲与口才/摘抄/因果分析、责其狭隘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "代码规范"
+              "title": "因果分析、责其狭隘"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,11 +53,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "代码",
+                "query": "寝室",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 331.5
   },
   "right": {
     "id": "592399680159156a",
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码规范/代码规范.md",
+                "file": "社交/演讲与口才/摘抄/因果分析、责其狭隘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "代码规范 的大纲"
+              "title": "因果分析、责其狭隘 的大纲"
             }
           },
           {
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,55 +186,55 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "6677ed067e67283e",
+  "active": "a35de8d6d910d5ef",
   "lastOpenFiles": [
-    "代码规范/README.md",
-    "代码规范/代码规范.md",
-    "stm32f103c8t6♥️/第三方模块/温湿度传感器/DHT11.md",
-    "2-记录/未命名.md",
-    "stm32f103c8t6♥️/第三方模块/CH340~341.md",
-    "stm32f103c8t6♥️/第三方模块/电机驱动 DRV8833.md",
-    "stm32f103c8t6♥️/第三方模块/温湿度传感器",
-    "stm32f103c8t6♥️/第三方模块/AHT20",
-    "C语言🤕/Lessons/E1-C语言程序结构.md",
-    "代码规范",
-    "C语言🤕/README.md",
-    "C语言🤕/术语",
-    "C语言🤕/Lessons",
-    "2-记录/17岁/8月/2025-8-30.md",
-    "2-记录/17岁/8月/未命名.md",
-    "C语言🤕",
-    "stm32f103c8t6♥️/中断/串口USART中断.md",
-    "stm32f103c8t6♥️/中断/外部中断EXTI.md",
-    "stm32f103c8t6♥️/中断/优先级.md",
-    "stm32f103c8t6♥️/中断/NVIC和中断向量表.md",
-    "2-记录/17岁/8月/2025-8-29.md",
-    "2-记录/17岁/8月/2025-8-27.md",
-    "2-记录/17岁/8月/2025-8-25.md",
-    "Arduino💥/Linux-配置VSCode开发环境.md",
-    "vitepress/安装Vitepress.md",
-    "stm32f103c8t6♥️/定时器/PWM模式.md",
-    "Arduino💥",
-    "stm32f103c8t6♥️/定时器/通用计时器.md",
-    "stm32f103c8t6♥️/定时器/定时器就是计数器.md",
-    "stm32f103c8t6♥️/HAL库/HAL_TIM_MspPostInit.md",
-    "stm32f103c8t6♥️/定时器/输出比较模式.md",
-    "stm32f103c8t6♥️/HAL库/HAL_TIM_Base_MspInit.md",
-    "stm32f103c8t6♥️/HAL库/HAL_Delay.md",
-    "stm32f103c8t6♥️/定时器/定时器的几个类型",
+    "社交/演讲与口才/摘抄/惋惜阿Q，不会用好的语言求爱.md",
+    "社交/演讲与口才/better批评.md",
+    "社交/演讲与口才/摘抄/因果分析、责其狭隘.md",
+    "社交/社会观察/应试教育和个性冲突.md",
+    "BlogDraft/学习的本质.md",
+    "BlogDraft/为什么不建议你早结婚？.md",
+    "BlogDraft/为什么推荐你写博客.md",
+    "BlogDraft/人要为了自己之前的行为承担代价.md",
+    "Markdown/添加Icon.md",
+    "Markdown/README.md",
+    "BlogDraft/好博客编写指南.md",
+    "Arduino Uno💥/README.md",
+    "Arduino Uno💥/Linux-配置VSCode开发环境.md",
+    "Arduino Uno💥/引脚分布说明/main.md",
+    "Arduino Uno💥/不错的实例/1-点亮一个LED.md",
+    "Arduino Uno💥/不错的实例/2-使用OLED.md",
+    "学习如何学习/先了解术语.md",
+    "学习如何学习/多样丰富的样本.md",
+    "学习如何学习/保持一直学习.md",
+    "传感器和其他模块🍆/CH340~341.md",
+    "传感器和其他模块🍆/电机驱动 DRV8833.md",
+    "传感器和其他模块🍆/电磁式蜂鸣器.md",
+    "传感器和其他模块🍆/彩色显示屏 ILI9341.md",
+    "传感器和其他模块🍆/74HC595.md",
+    "传感器和其他模块🍆/OLED/驱动/使用说明.md",
+    "传感器和其他模块🍆/温湿度传感器/DHT11.md",
+    "2-记录/17岁/9月/Pasted image 20250907195722.png",
+    "godot🐷/GDScript API/可操作的Sprite属性",
+    "godot🐷/GDScript API/获取输入",
+    "godot🐷/GDScript API",
+    "godot🐷",
+    "lwjgl-opengl🍟",
+    "传感器和其他模块🍆/蓝牙模块/BT24",
+    "传感器和其他模块🍆/蓝牙模块",
+    "ESP32-S3-WROOM😍/不错的实例",
+    "ESP32-S3-WROOM😍/Arduino IDE开发ESP32配置/Pasted image 20250905172709.png",
+    "ESP32-S3-WROOM😍/Arduino IDE开发ESP32配置/Pasted image 20250905172158.png",
+    "ESP32-S3-WROOM😍/Arduino IDE开发ESP32配置/Pasted image 20250905172240.png",
+    "ESP32-S3-WROOM😍/Arduino IDE开发ESP32配置/Pasted image 20250905172347.png",
+    "ESP32-S3-WROOM😍/Arduino IDE开发ESP32配置",
+    "stm32f103c8t6♥️/通信/USART通信/imgs/Pasted image 20250813111256.png",
+    "Markdown",
+    "Arduino Uno💥/引脚分布说明/Pasted image 20250905095448.png",
     "stm32f103c8t6♥️/定时器/定时器的几个类型/imgs/Pasted image 20250829092330.png",
-    "stm32f103c8t6♥️/定时器/定时器的几个类型/imgs",
-    "stm32f103c8t6♥️/定时器",
     "Cpp/imgs/Pasted image 20250815090205.png",
     "2-记录/情感/关键.canvas",
     "stm32f103c8t6♥️/环境配置/imgs/Pasted image 20250812175930.png",
-    "stm32f103c8t6♥️/文件目录解析/imgs/Pasted image 20250812172755.png",
-    "stm32f103c8t6♥️/不错的实例/3-读取按键输入/imgs/Pasted image 20250815100348.png",
-    "stm32f103c8t6♥️/不错的实例/1-点亮自带的LED/imgs/1755062808339.jpg",
-    "stm32f103c8t6♥️/通信/USART通信/imgs/Pasted image 20250813111256.png",
-    "Cpp/imgs/Pasted image 20250813205924.png",
-    "stm32f103c8t6♥️/imgs/1755062753023.jpg",
-    "stm32f103c8t6♥️/imgs/Pasted image 20250812172016.png",
     "草稿/UpdateRate.canvas",
     "未命名.canvas",
     "track/2025/未命名.canvas"

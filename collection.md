@@ -1,3 +1,10 @@
+# 单片机
+[[stm32f103c8t6♥️/README]]
+[[ESP32-S3-WROOM😍/README]]
+[[Arduino Uno💥/README]]
+[[嵌入式术语🟩/README]]
+[[传感器和其他模块🍆/README]]
+
 # stm32
 [[stm32f103c8t6♥️/README]]
 
@@ -7,15 +14,14 @@
 # C++
 [[Cpp/README]]
 [[CMake/README]]
-# 博客
 
+# 博客
 [[博客/README]]
 [[感悟/README]]
 [[读后感/README]]
 [[重构理解/README]]
 
 # 计算机
-
 [[3-nuxt⚡/README]]
 [[算法/README]]
 [[Linux/README]]
@@ -24,13 +30,10 @@
 [[Linux/README]]
 
 # 视频创作
-
 [[4-视频创作/README]]
 
 # 英语
-
 [[英语单词/README]]
 
 # 情感
-
 [[情商通关手册/README]]
