@@ -13,7 +13,7 @@ void setup(){
 	// 初始化GPIO 2为推挽输出
 	pinMode(2, OUTPUT);
 	// 设置GPIO 2的输出为高电平
-	digitalWrite(2, HIGH;
+	digitalWrite(2, HIGH);
 }
 
 void loop(){

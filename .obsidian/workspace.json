@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "社交/演讲与口才/摘抄/因果分析、责其狭隘.md",
+                "file": "Arduino Uno💥/不错的实例/1-点亮一个LED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "因果分析、责其狭隘"
+              "title": "1-点亮一个LED"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "社交/演讲与口才/摘抄/因果分析、责其狭隘.md",
+                "file": "Arduino Uno💥/不错的实例/1-点亮一个LED.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "因果分析、责其狭隘 的大纲"
+              "title": "1-点亮一个LED 的大纲"
             }
           },
           {
@@ -188,9 +188,11 @@
   },
   "active": "a35de8d6d910d5ef",
   "lastOpenFiles": [
+    "2-记录/17岁/9月/2025-9-9.md",
+    "Linux/编写可以直接执行的sh.md",
+    "社交/演讲与口才/摘抄/因果分析、责其狭隘.md",
     "社交/演讲与口才/摘抄/惋惜阿Q，不会用好的语言求爱.md",
     "社交/演讲与口才/better批评.md",
-    "社交/演讲与口才/摘抄/因果分析、责其狭隘.md",
     "社交/社会观察/应试教育和个性冲突.md",
     "BlogDraft/学习的本质.md",
     "BlogDraft/为什么不建议你早结婚？.md",
@@ -212,8 +214,6 @@
     "传感器和其他模块🍆/电磁式蜂鸣器.md",
     "传感器和其他模块🍆/彩色显示屏 ILI9341.md",
     "传感器和其他模块🍆/74HC595.md",
-    "传感器和其他模块🍆/OLED/驱动/使用说明.md",
-    "传感器和其他模块🍆/温湿度传感器/DHT11.md",
     "2-记录/17岁/9月/Pasted image 20250907195722.png",
     "godot🐷/GDScript API/可操作的Sprite属性",
     "godot🐷/GDScript API/获取输入",
