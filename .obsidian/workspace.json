@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "4c32d7860b48dba3",
+        "id": "092d3802ef72896b",
         "type": "tabs",
         "children": [
           {
-            "id": "a35de8d6d910d5ef",
+            "id": "e189a36f4c791a8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arduino Uno💥/I2C通信.md",
+                "file": "Arduino Uno💥/引脚分布说明/main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I2C通信"
+              "title": "main"
+            }
+          },
+          {
+            "id": "6bd94f8957d65dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arduino Uno💥/不错的实例/4-使用OLED.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-使用OLED"
+            }
+          },
+          {
+            "id": "642c267aa1e167ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arduino Uno💥/不错的实例/4-使用OLED.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-使用OLED"
+            }
+          },
+          {
+            "id": "56214ce86859259b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-track👻/17岁/9月/9-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9-10"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:PWD",
+                "query": "vitepress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 303.5
   },
   "right": {
     "id": "592399680159156a",
@@ -94,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arduino Uno💥/I2C通信.md",
+                "file": "1-track👻/17岁/9月/9-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "I2C通信 的大纲"
+              "title": "9-10 的大纲"
             }
           },
           {
@@ -186,55 +229,55 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "a35de8d6d910d5ef",
+  "active": "56214ce86859259b",
   "lastOpenFiles": [
-    "Arduino Uno💥/Linux-配置VSCode开发环境.md",
-    "Arduino Uno💥/I2C通信.md",
-    "Arduino Uno💥/为什么使用Arduino.md",
-    "2-记录/PWD.md",
-    "Arduino Uno💥/USART通信.md",
-    "Arduino Uno💥/不错的实例/2-使用OLED.md",
-    "2-记录/17岁/9月/2025-9-9.md",
-    "2-记录/17岁/9月/2025-9-10.md",
+    "Arduino Uno💥/引脚分布说明/main.md",
+    "Arduino Uno💥/不错的实例/4-使用OLED.md",
     "Arduino Uno💥/不错的实例/1-点亮一个LED.md",
-    "Arduino Uno💥/README.md",
-    "godot🐷/GDScript API/删除节点.md",
-    "godot🐷/GDScript API/获取输入/使用Input.md",
-    "collection.md",
+    "传感器和其他模块🍆/OLED/驱动库底层原理.md",
+    "1-track👻/17岁/9月/9-10.md",
+    "1-track👻/17岁/9月/9-11 “血”的教训.md",
+    "Arduino Uno💥/未命名",
+    "2-记录/17岁/9月/2025-9-6.md",
+    "Arduino Uno💥/通信/I2C通信.md",
+    "2-记录/17岁/9月/2025-9-7.md",
+    "2-记录/17岁/9月/2025-9-8.md",
+    "2-记录/17岁/9月/2025-9-10.md",
+    "2-记录/17岁/9月/2025-9-9.md",
+    "1-track👻/17岁/9月/Pasted image 20250910084520.png",
+    "Arduino Uno💥/引脚分布说明/Pasted image 20250905095448.png",
     "1-track👻/18岁/2月/2026-02-01.md",
-    "2-记录/17岁/6月/2025-06-10~13.md",
-    "2-记录/17岁/8月/2025-8-6.md",
-    "2-记录/17岁/9月/2025-9-3.md",
-    "Linux/编写可以直接执行的sh.md",
-    "社交/演讲与口才/摘抄/因果分析、责其狭隘.md",
-    "社交/演讲与口才/摘抄/惋惜阿Q，不会用好的语言求爱.md",
-    "社交/演讲与口才/better批评.md",
-    "社交/社会观察/应试教育和个性冲突.md",
-    "BlogDraft/学习的本质.md",
-    "BlogDraft/为什么不建议你早结婚？.md",
-    "BlogDraft/为什么推荐你写博客.md",
-    "BlogDraft/人要为了自己之前的行为承担代价.md",
+    "vitepress/安装Vitepress.md",
+    "Arduino Uno💥/不错的实例/3-使用中断来获取按钮状态.md",
+    "Arduino Uno💥/不错的实例/2-Arduino通过按钮控制LED.md",
+    "Arduino Uno💥/README.md",
+    "godot🐷/GDScript API/获取输入/使用Input.md",
+    "1-track👻/17岁/9月",
+    "2-记录/PWD.md",
+    "godot🐷/GDScript API/内置虚函数/_process().md",
+    "godot🐷/核心概念/信号.md",
+    "godot🐷/核心概念",
+    "godot🐷/GDScript API/内置虚函数",
+    "godot🐷/GDScript API/二维向量.md",
+    "godot🐷/GDScript API/访问子节点.md",
+    "godot🐷/GDScript API/关于GDScript.md",
+    "godot🐷/不错的实例/官方2D游戏.md",
+    "godot🐷/不错的实例/官方入门级游戏.md",
+    "godot🐷/不错的实例",
+    "godot🐷/GDScript API/获取输入/Pasted image 20250909205022.png",
+    "godot🐷/GDScript API/获取输入/Pasted image 20250909204641.png",
+    "godot🐷/GDScript API/获取输入/Pasted image 20250909204712.png",
+    "godot🐷/GDScript API/获取输入/Pasted image 20250909204439.png",
+    "Arduino Uno💥/通信",
     "2-记录/17岁/9月/Pasted image 20250907195722.png",
     "godot🐷/GDScript API/可操作的Sprite属性",
     "godot🐷/GDScript API/获取输入",
     "godot🐷/GDScript API",
     "godot🐷",
-    "lwjgl-opengl🍟",
-    "传感器和其他模块🍆/蓝牙模块/BT24",
-    "传感器和其他模块🍆/蓝牙模块",
-    "ESP32-S3-WROOM😍/不错的实例",
     "ESP32-S3-WROOM😍/Arduino IDE开发ESP32配置/Pasted image 20250905172709.png",
     "ESP32-S3-WROOM😍/Arduino IDE开发ESP32配置/Pasted image 20250905172158.png",
     "ESP32-S3-WROOM😍/Arduino IDE开发ESP32配置/Pasted image 20250905172240.png",
-    "ESP32-S3-WROOM😍/Arduino IDE开发ESP32配置/Pasted image 20250905172347.png",
-    "ESP32-S3-WROOM😍/Arduino IDE开发ESP32配置",
-    "stm32f103c8t6♥️/通信/USART通信/imgs/Pasted image 20250813111256.png",
-    "Markdown",
-    "Arduino Uno💥/引脚分布说明/Pasted image 20250905095448.png",
-    "stm32f103c8t6♥️/定时器/定时器的几个类型/imgs/Pasted image 20250829092330.png",
-    "Cpp/imgs/Pasted image 20250815090205.png",
     "2-记录/情感/关键.canvas",
-    "stm32f103c8t6♥️/环境配置/imgs/Pasted image 20250812175930.png",
     "草稿/UpdateRate.canvas",
     "未命名.canvas",
     "track/2025/未命名.canvas"

@@ -39,5 +39,75 @@
 
 所以，USART（串口）远不止是一个枯燥的通信协议。它是嵌入式开发中最基础、最不可或缺的工具之一，是你与芯片沟通的母语。理解了它，你就掌握了让设备“开口说话”的钥匙，你的项目也因此拥有了与更广阔世界连接的能力。从在屏幕上打印一句 “Hello World” 开始，你的创造之路就进入了一个全新的阶段。
 
-## 如何在Arduino中使用USART和电脑通信
+## 用Serial通信
+
+### 引脚
+
+其实你的Arduino 数据线不仅可以用来上传代码，还可以支持串口通信。不过，当你用的是数据线来串口通信，那么会占用上传代码的USB端口。所以，一般推荐你买一个USB TO TTL（USB转TTL）。然后按照下面的方式把USB转TTL和Arduino连接起来。注意！RX和TX一起，TX和RX一起！！！
+
+```cpp
+USB TO TTL    |     Arduino
+VCC                 5v
+GND                 GND
+RX                  TX
+TX                  RX
+```
+
+首先你应该要用Serial.begin()函数来初始化USART。你需要给Serial.begin函数传入参数，如下
+
+```cpp
+Serial.begin(9600);
+```
+
+### 发送数据
+
+如果是为了调试程序，发送字符串的话，可以直接用print和println。如下：
+
+```cpp
+Serial.print("hello");
+Serial.println(" world");
+```
+
+### 接收数据
+
+1. 
+
+```cpp
+Serial.read();
+```
+
+使用：
+
+```cpp
+if (Serial.available() > 0) {  // 检查是否有数据可用
+	int incomingByte = Serial.read();  // 读取下一个字节
+	if (incomingByte != -1) {
+		Serial.print("Received: ");
+		Serial.println(incomingByte, DEC);  // 打印接收到的字节
+	}
+}
+```
+
+2. 
+
+```cpp
+Serial.peek();
+```
+
+使用：
+
+```cpp
+if (Serial.available() > 0) {  // 检查是否有数据可用
+	int nextByte = Serial.peek();  // 查看下一个字节，但不移除
+	if (nextByte != -1) {
+		Serial.print("Peeked: ");
+		Serial.println(nextByte, DEC);  // 打印查看到的字节
+		Serial.read();  // 然后真正读取并移除该字节
+	}
+}
+```
+
+## 参考资料
+
+1. https://blog.csdn.net/hhaowang/article/details/88529842
 
