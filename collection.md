@@ -3,14 +3,14 @@
 [[godot🐷/README]]
 
 # 单片机
-[[stm32f103c8t6♥️/README]]
+[[1-stm32f103c8t6♥️/README]]
 [[ESP32-S3-WROOM😍/README]]
 [[Arduino Uno💥/README]]
 [[嵌入式术语🟩/README]]
 [[电子元器件🍆/README]]
 
 # stm32
-[[stm32f103c8t6♥️/README]]
+[[1-stm32f103c8t6♥️/README]]
 
 # 复用芯片
 [[嵌入式术语🟩/README]]
@@ -26,7 +26,7 @@
 [[重构理解/README]]
 
 # 计算机
-[[3-nuxt⚡/README]]
+[[nuxt⚡/README]]
 [[算法/README]]
 [[Linux/README]]
 [[git/README]]
@@ -34,7 +34,7 @@
 [[Linux/README]]
 
 # 视频创作
-[[4-视频创作/README]]
+[[视频创作/README]]
 
 # 英语
 [[英语单词/README]]

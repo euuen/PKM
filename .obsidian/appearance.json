@@ -1,4 +1,10 @@
 {
   "theme": "system",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Border",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "heading"
+  ],
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
