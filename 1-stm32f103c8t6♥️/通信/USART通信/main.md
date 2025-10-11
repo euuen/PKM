@@ -104,6 +104,16 @@ sudo chmod 666 /dev/ttyUSB0
 
 解决完权限问题后打开【在线串口调试工具】 https://serial.baud-dance.com/ ，选择设备，确定波特率和stm32上设置的一致，然后你就可以看到stm32每隔一秒发送过来的消息了！！！
 
+## 处理不定长数据
+
+对于不定长数据，通常使用空闲中断（IDLE）检测帧结束：
+
+## 关于可移植代码
+
+这个代码是建立在HAL库之上的，你需要自己根据你自己项目的需要移植代码。风格是尽量偏Arduino的。
+
+注意，可能需要你自己include头文件。。。就是`#include "stm32f1xx_hal.h"`。
+
 ## 参考资料
 1. 【【keysking的STM32教程】 第8集 STM32的串口通信】 https://www.bilibili.com/video/BV1Na4y1T7VQ/?share_source=copy_web&vd_source=d8165ccc8db4f797937e2198122cfca4
 2. 【 STM32之USART-串口通信（含串口实验详细解析）】 https://blog.csdn.net/AriesPIG/article/details/119840979?fromshare=blogdetail&sharetype=blogdetail&sharerId=119840979&sharerefer=PC&sharesource=qq_72984050&sharefrom=from_link
