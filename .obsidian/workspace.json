@@ -1,50 +1,80 @@
 {
   "main": {
-    "id": "c28246001764eb09",
+    "id": "340e17fb6210e901",
     "type": "split",
     "children": [
       {
-        "id": "e556c81600eedfc5",
+        "id": "403d38b1404e6458",
         "type": "tabs",
         "children": [
           {
-            "id": "653dd3edeface6d6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1-stm32f103c8t6♥️/引脚分布.png"
-              },
-              "icon": "lucide-image",
-              "title": "引脚分布"
-            }
-          },
-          {
-            "id": "659e100c83f7a3f8",
+            "id": "63bf9e0f8a1edae3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-项目经历/stm32循迹小车/只有循迹的小车（八路循迹）的代码.md",
+                "file": "2-记录/长沙理工大学/2025网络教学平台详解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "只有循迹的小车（八路循迹）的代码"
+              "title": "2025网络教学平台详解"
             }
           },
           {
-            "id": "8af1d11c9eeeca31",
+            "id": "9241e5e1aef025fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-stm32f103c8t6♥️/README.md",
+                "file": "vitepress/路由过渡动画.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "路由过渡动画"
+            }
+          },
+          {
+            "id": "c88b7f5f50a9b251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-stm32f103c8t6♥️/模拟输出PWM输出/main.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "main"
+            }
+          },
+          {
+            "id": "fee2aee27daa1ed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-记录/PWD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PWD"
+            }
+          },
+          {
+            "id": "9967b91416e91360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-stm32f103c8t6♥️/GPIO/初始化一个GPIO引脚.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "初始化一个GPIO引脚"
             }
           }
         ],
@@ -54,15 +84,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b575408022fa7e3f",
+    "id": "5f570f962045cd84",
     "type": "split",
     "children": [
       {
-        "id": "ea688f6a4fd798bd",
+        "id": "7b19bdac5e3a9f5b",
         "type": "tabs",
         "children": [
           {
-            "id": "b2e6e3abf41083b8",
+            "id": "0012715ce10cbb2a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -75,16 +105,16 @@
             }
           },
           {
-            "id": "a751b2135403d91e",
+            "id": "6e1cbf646a65470f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "path:HTML",
+                "query": "path:CMake  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -92,7 +122,7 @@
             }
           },
           {
-            "id": "c4a78af872cb9a20",
+            "id": "20c3c6857391c083",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,38 +135,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 369.5
   },
   "right": {
-    "id": "592399680159156a",
+    "id": "7d1a8e0248ccac11",
     "type": "split",
     "children": [
       {
-        "id": "00a017f04fb3d7f4",
+        "id": "182bf0948f9ec9d3",
         "type": "tabs",
         "children": [
           {
-            "id": "b8db9e88b4ac538c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "3-项目经历/stm32循迹小车/只有循迹的小车（八路循迹）的代码.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "只有循迹的小车（八路循迹）的代码 的大纲"
-            }
-          },
-          {
-            "id": "620c3de4361f277a",
+            "id": "9b69717c33db5ad8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-记录/17岁/10月/2025-10-3/main.md",
+                "file": "godot🐷/问题大全.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,25 +161,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "main 的反向链接列表"
+              "title": "问题大全 的反向链接列表"
             }
           },
           {
-            "id": "6cd611b07c8c71e6",
+            "id": "787e3be4687bd5f5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nuxt/目录结构.md",
+                "file": "2-记录/17岁/10月/2025-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "目录结构 的出链列表"
+              "title": "2025-10-16 的出链列表"
             }
           },
           {
-            "id": "92aa6d8af2fb36f6",
+            "id": "d2fa975242506f11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e7dc188f2789a392",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -178,92 +208,90 @@
             }
           },
           {
-            "id": "302f27ea0bbc92b0",
+            "id": "3100d7aaef16c5c5",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
+                "file": "1-stm32f103c8t6♥️/固件驱动/mpu6050/问题大全.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "标签"
+              "icon": "lucide-list",
+              "title": "问题大全 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 312.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
-      "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "audio-recorder:开始/结束录音": false,
+      "zk-prefixer:创建时间戳笔记": false,
       "random-note:开始漫游笔记": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "bases:创建新数据库": false
     }
   },
-  "active": "b2e6e3abf41083b8",
+  "active": "9241e5e1aef025fa",
   "lastOpenFiles": [
-    "3-项目经历/stm32循迹小车/亚博八路循迹模块文档/如何和八路循迹模块通信.md",
-    "3-项目经历/stm32循迹小车/只有循迹的小车（八路循迹）的代码.md",
-    "3-项目经历/stm32循迹小车/亚博八路循迹模块文档/关于串口通信的波特率.md",
-    "1-stm32f103c8t6♥️/通信/I2C通信/可移植代码.md",
-    "1-stm32f103c8t6♥️/引脚分布.png",
+    "CMake/链接库到可执行文件中.md",
+    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress/2",
+    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress/1",
+    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/sync.dir/compiler_depend.internal",
+    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress/4",
+    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress/3",
+    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/yunqian.dir/compiler_depend.internal.tmpad923",
+    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/yunqian.dir/compiler_depend.make.tmp5e98e",
+    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress/count.txt",
+    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress",
+    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/yunqian.dir/build.make.tmp9dc0f",
+    "CMake/生成链接库.md",
+    "CMake/添加源文件在CMake里.md",
+    "2-记录/长沙理工大学/Python/BFF4CFB0C866C01C7EC4BC58298F34F7.jpg",
+    "2-记录/PWD.md",
+    "1-stm32f103c8t6♥️/模拟输出PWM输出/main.md",
+    "1-stm32f103c8t6♥️/GPIO/初始化一个GPIO引脚.md",
+    "2-记录/长沙理工大学/2025网络教学平台详解.md",
+    "1-stm32f103c8t6♥️/不错的实例/1-点亮自带的LED/index.md",
+    "1-stm32f103c8t6♥️/固件驱动/mpu6050/main.md",
+    "1-stm32f103c8t6♥️/固件驱动/mpu6050/问题大全.md",
     "1-stm32f103c8t6♥️/README.md",
+    "1-stm32f103c8t6♥️/引脚分布.png",
+    "1-stm32f103c8t6♥️/固件驱动/README.md",
+    "1-stm32f103c8t6♥️/不错的实例/2-USART通信.md",
+    "1-stm32f103c8t6♥️/模拟输出PWM输出/可移植代码.md",
+    "1-stm32f103c8t6♥️/定时器/PWM模式.md",
+    "ESP32-S3-WROOM😍/引脚说明.md",
+    "ESP32-S3-WROOM😍/引脚分布.md",
     "1-stm32f103c8t6♥️/通信/USART通信/可移植代码.md",
-    "1-stm32f103c8t6♥️/通信/USART通信/main.md",
-    "3-项目经历/stm32循迹小车/mpu6050驱动/main.md",
-    "1-stm32f103c8t6♥️/通信/I2C通信/main.md",
-    "3-项目经历/stm32循迹小车/亚博八路循迹模块文档/doc2.jpeg",
-    "2-记录/长沙理工大学/数学/高数练习册及答案（上册）.rar",
-    "2-记录/长沙理工大学/数学/高等数学同步辅导（第八版）下册.pdf",
-    "2-记录/长沙理工大学/数学/高等数学同步辅导（第八版）上册.pdf",
-    "2-记录/长沙理工大学/数学",
-    "3-项目经历/stm32循迹小车/亚博八路循迹模块文档/doc3.jpeg",
-    "3-项目经历/stm32循迹小车/整体代码分析.md",
-    "3-项目经历/stm32循迹小车/串口通信.md",
-    "3-项目经历/stm32循迹小车/按钮输入.md",
-    "2-记录/17岁/10月/2025-10-6.md",
-    "2-记录/17岁/10月/2025-10-7.md",
-    "2-记录/17岁/10月/2025-10-9/main.md",
-    "3-项目经历/stm32循迹小车/mpu6050驱动/inv_mpu_dmp_motion_driver.h",
-    "3-项目经历/stm32循迹小车/mpu6050驱动/inv_mpu_dmp_motion_driver.c",
-    "3-项目经历/stm32循迹小车/mpu6050驱动/inv_mpu.h",
-    "3-项目经历/stm32循迹小车/mpu6050驱动/inv_mpu.c",
-    "3-项目经历/stm32循迹小车/mpu6050驱动/dmpmap.h",
-    "3-项目经历/stm32循迹小车/mpu6050驱动/dmpKey.h",
-    "2-记录/17岁/10月/2025-10-9/submain.md",
-    "2-记录/17岁/10月/2025-10-1.md",
-    "3-项目经历/stm32循迹小车/亚博八路循迹模块文档/doc1.jpeg",
-    "1-stm32f103c8t6♥️/中断/外部中断EXTI.md",
-    "2-记录/长沙理工大学/Python/作业.md",
-    "2-记录/17岁/10月/2025-10-9/Pasted image 20251009104922.png",
-    "2-记录/17岁/10月/2025-10-9/Pasted image 20251009104424.png",
-    "2-记录/17岁/10月/2025-10-9/98EA97F55C07CB3171C3F1E3299F387B.jpg",
-    "2-记录/17岁/10月/2025-10-9/godot.png",
-    "2-记录/17岁/10月/2025-10-9/粘贴的文件.png",
-    "3-项目经历/stm32循迹小车/数码管.png",
-    "HTML/不错的实例/辉光特效.md",
-    "nuxt⚡/使用Tailwind css.md",
-    "3-项目经历/stm32循迹小车/数码管显示代码.md",
-    "3-项目经历/stm32循迹小车/蜂鸣器.md",
-    "2-记录/长沙理工大学/C语言/C语言作业.md",
-    "2-记录/17岁/10月/2025-10-5.md",
-    "2-记录/17岁/10月/2025-10-8/main.md",
-    "2-记录/情感/关键.canvas",
-    "草稿/UpdateRate.canvas",
-    "未命名.canvas",
-    "track/2025/未命名.canvas"
+    "1-stm32f103c8t6♥️/GPIO/GPIO 八大模式.md",
+    "1-stm32f103c8t6♥️/定时器/定时器的几个类型/定时器的几个类型.md",
+    "1-stm32f103c8t6♥️/定时器/定时器就是计数器.md",
+    "godot🐷/Resource/Resource简单操作示例.md",
+    "godot🐷/问题大全.md",
+    "pearl/示例代码.md",
+    "godot🐷/输入/键盘输入/essay.md",
+    "入手Obsidian/自定义CSS片段.md",
+    "入手Obsidian/Pasted image 20251022130144.png",
+    "嘉丽创EDA/执行DRC检查/Pasted image 20251022085325.png",
+    "Pasted image 20251022085210.png",
+    "嘉丽创EDA/自动分配位号/Pasted image 20251022085217.png",
+    "嘉丽创EDA/如何下单PCB/Pasted image 20251022084858.png",
+    "嘉丽创EDA/如何下单PCB/Pasted image 20251022083526.png",
+    "嘉丽创EDA/如何下单PCB/Pasted image 20251022083329.png",
+    "嘉丽创EDA/如何下单PCB/Pasted image 20251022083053.png"
   ]
 }
