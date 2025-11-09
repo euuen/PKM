@@ -1,7 +1,8 @@
 [
   "code-styler",
+  "obsidian-export-image",
   "obsidian-icon-folder",
-  "obsidian-style-settings",
+  "obsidian-image-toolkit",
   "obsidian-pandoc",
-  "obsidian-image-toolkit"
+  "obsidian-style-settings"
 ]

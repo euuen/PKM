@@ -1,0 +1,10 @@
+{
+  "theme": "system",
+  "cssTheme": "Border",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "heading"
+  ],
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}

@@ -1,98 +1,41 @@
 {
   "main": {
-    "id": "340e17fb6210e901",
+    "id": "a5d8919b885c48a1",
     "type": "split",
     "children": [
       {
-        "id": "403d38b1404e6458",
+        "id": "2c00b63255a4c1f8",
         "type": "tabs",
         "children": [
           {
-            "id": "63bf9e0f8a1edae3",
+            "id": "ca840867813f574a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-记录/长沙理工大学/2025网络教学平台详解.md",
+                "file": "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025网络教学平台详解"
-            }
-          },
-          {
-            "id": "9241e5e1aef025fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vitepress/路由过渡动画.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "路由过渡动画"
-            }
-          },
-          {
-            "id": "c88b7f5f50a9b251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-stm32f103c8t6♥️/模拟输出PWM输出/main.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "main"
-            }
-          },
-          {
-            "id": "fee2aee27daa1ed9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-记录/PWD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PWD"
-            }
-          },
-          {
-            "id": "9967b91416e91360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-stm32f103c8t6♥️/GPIO/初始化一个GPIO引脚.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "初始化一个GPIO引脚"
+              "title": "最新版本v2.0"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5f570f962045cd84",
+    "id": "fbed4050d29f181b",
     "type": "split",
     "children": [
       {
-        "id": "7b19bdac5e3a9f5b",
+        "id": "c1e10b841cae76fc",
         "type": "tabs",
         "children": [
           {
-            "id": "0012715ce10cbb2a",
+            "id": "9dbadc714e6a8e17",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -105,13 +48,13 @@
             }
           },
           {
-            "id": "6e1cbf646a65470f",
+            "id": "efd69ff2dde17380",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "path:CMake  ",
-                "matchingCase": false,
+                "query": "cmake",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -122,7 +65,7 @@
             }
           },
           {
-            "id": "20c3c6857391c083",
+            "id": "c9144b1deb56e379",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -135,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 348.5026054382324
   },
   "right": {
-    "id": "7d1a8e0248ccac11",
+    "id": "7542a2bf3bbf5b67",
     "type": "split",
     "children": [
       {
-        "id": "182bf0948f9ec9d3",
+        "id": "676b4e9ac1b320e8",
         "type": "tabs",
         "children": [
           {
-            "id": "9b69717c33db5ad8",
+            "id": "8f91a04d3ac668ae",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "godot🐷/问题大全.md",
+                "file": "python🐍/matplotlib/绘制实时数据/为什么我要选择用matplotlib做仿真.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "问题大全 的反向链接列表"
+              "title": "为什么我要选择用matplotlib做仿真 的反向链接列表"
             }
           },
           {
-            "id": "787e3be4687bd5f5",
+            "id": "cac38ddaac241598",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-记录/17岁/10月/2025-10-16.md",
+                "file": "2-记录/PWD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-10-16 的出链列表"
+              "title": "PWD 的出链列表"
             }
           },
           {
-            "id": "d2fa975242506f11",
+            "id": "2ea0b7ecd4a65fbe",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -194,7 +137,22 @@
             }
           },
           {
-            "id": "e7dc188f2789a392",
+            "id": "60ea7181cf011c2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "最新版本v2.0 的大纲"
+            }
+          },
+          {
+            "id": "7a89f6d130e4b271",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -206,29 +164,13 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "3100d7aaef16c5c5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1-stm32f103c8t6♥️/固件驱动/mpu6050/问题大全.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "问题大全 的大纲"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,60 +180,57 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "random-note:开始漫游笔记": false,
-      "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9241e5e1aef025fa",
+  "active": "ca840867813f574a",
   "lastOpenFiles": [
-    "CMake/链接库到可执行文件中.md",
-    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress/2",
-    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress/1",
-    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/sync.dir/compiler_depend.internal",
-    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress/4",
-    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress/3",
-    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/yunqian.dir/compiler_depend.internal.tmpad923",
-    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/yunqian.dir/compiler_depend.make.tmp5e98e",
-    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress/count.txt",
-    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/Progress",
-    "2-记录/云嵌/lesson1/proj/build/CMakeFiles/yunqian.dir/build.make.tmp9dc0f",
-    "CMake/生成链接库.md",
+    "1-stm32f103c8t6♥️/烧录程序到stm32中.md",
+    "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.md",
+    "1-stm32f103c8t6♥️/0-环境配置/Pasted image 20251109163510.png",
+    "1-stm32f103c8t6♥️/0-环境配置/Pasted image 20251109162926.png",
+    "1-stm32f103c8t6♥️/中断/NVIC和中断向量表.md",
+    "1-stm32f103c8t6♥️/中断/外部中断EXTI.md",
+    "1-stm32f103c8t6♥️/中断/串口USART中断.md",
+    "1-stm32f103c8t6♥️/1-教程/3-读取按键输入/index.md",
+    "2-记录/云嵌/lesson2/云嵌第二次电控考核(1).md",
+    "2-记录/云嵌/lesson2",
+    "1-stm32f103c8t6♥️/0-环境配置/Pasted image 20251109020358.png",
+    "1-stm32f103c8t6♥️/0-环境配置/v1.0.md",
+    "CMake/CMakePresets.md",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/docs/General/html/LICENSE.txt",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_q7.c",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_q15.c",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/PoolingFunctions/arm_pool_q7_HWC.c",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_reordered_no_shift.c",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_no_shift.c",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mult_q7.c",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mult_q15.c",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/1.资料/pid-simulator-web-master/img/icon.png",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/1.资料/pid-simulator-web-master/img/gitee.png",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/1.资料/pid-simulator-web-master/img/csdn.png",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/1.资料/pid-simulator-web-master/README.md",
+    "1-stm32f103c8t6♥️/stm32初始化流程.md",
+    "1-stm32f103c8t6♥️/1-教程/4-ADC读取PWM/essay.md",
+    "1-stm32f103c8t6♥️/1-教程/4-ADC读取PWM/Pasted image 20251105234459.png",
+    "1-stm32f103c8t6♥️/1-教程/2-USART通信/essay.md",
+    "1-stm32f103c8t6♥️/1-教程/1-点亮自带的LED/index.md",
+    "CMake/添加一个目录下所有的源文件到CMake里.md",
     "CMake/添加源文件在CMake里.md",
-    "2-记录/长沙理工大学/Python/BFF4CFB0C866C01C7EC4BC58298F34F7.jpg",
-    "2-记录/PWD.md",
-    "1-stm32f103c8t6♥️/模拟输出PWM输出/main.md",
-    "1-stm32f103c8t6♥️/GPIO/初始化一个GPIO引脚.md",
-    "2-记录/长沙理工大学/2025网络教学平台详解.md",
-    "1-stm32f103c8t6♥️/不错的实例/1-点亮自带的LED/index.md",
-    "1-stm32f103c8t6♥️/固件驱动/mpu6050/main.md",
-    "1-stm32f103c8t6♥️/固件驱动/mpu6050/问题大全.md",
-    "1-stm32f103c8t6♥️/README.md",
-    "1-stm32f103c8t6♥️/引脚分布.png",
-    "1-stm32f103c8t6♥️/固件驱动/README.md",
-    "1-stm32f103c8t6♥️/不错的实例/2-USART通信.md",
-    "1-stm32f103c8t6♥️/模拟输出PWM输出/可移植代码.md",
-    "1-stm32f103c8t6♥️/定时器/PWM模式.md",
-    "ESP32-S3-WROOM😍/引脚说明.md",
-    "ESP32-S3-WROOM😍/引脚分布.md",
-    "1-stm32f103c8t6♥️/通信/USART通信/可移植代码.md",
-    "1-stm32f103c8t6♥️/GPIO/GPIO 八大模式.md",
-    "1-stm32f103c8t6♥️/定时器/定时器的几个类型/定时器的几个类型.md",
-    "1-stm32f103c8t6♥️/定时器/定时器就是计数器.md",
-    "godot🐷/Resource/Resource简单操作示例.md",
-    "godot🐷/问题大全.md",
-    "pearl/示例代码.md",
-    "godot🐷/输入/键盘输入/essay.md",
-    "入手Obsidian/自定义CSS片段.md",
-    "入手Obsidian/Pasted image 20251022130144.png",
-    "嘉丽创EDA/执行DRC检查/Pasted image 20251022085325.png",
-    "Pasted image 20251022085210.png",
-    "嘉丽创EDA/自动分配位号/Pasted image 20251022085217.png",
-    "嘉丽创EDA/如何下单PCB/Pasted image 20251022084858.png",
-    "嘉丽创EDA/如何下单PCB/Pasted image 20251022083526.png",
-    "嘉丽创EDA/如何下单PCB/Pasted image 20251022083329.png",
-    "嘉丽创EDA/如何下单PCB/Pasted image 20251022083053.png"
+    "CMake/在CMake里添加头文件.md",
+    "CMake/添加支持clangd语法提示.md",
+    "CMake/添加宏定义.md",
+    "CMake/生成链接库.md",
+    "CMake/链接库到可执行文件中.md",
+    "CMake/最小的CMakeList.md",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包/1.资料/pid-simulator-web-master/img/icon.png",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包/1.资料/pid-simulator-web-master/img/gitee.png",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包/1.资料/pid-simulator-web-master/img/csdn.png",
+    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包/1.资料/pid-simulator-web-master/README.md",
+    "3-项目经历/stm32平衡小车/520小车原理图.md",
+    "1-stm32f103c8t6♥️/问题和解决/Warn UNEXPECTED idcode 0x2ba01477 Error expected 1 of 1 0x1ba01477.md",
+    "2-记录/情感/关键.canvas"
   ]
 }

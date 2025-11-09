@@ -1,0 +1,3 @@
+# 为什么我要选择用matplotlib做仿真
+
+由于坑爹matlab太大了，太卡了，我的电脑目前还无法支撑matlab，主要是我懒得装matplot，因为matplot不支持linux

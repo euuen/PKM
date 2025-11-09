@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "340e17fb6210e901",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2caf9504a6f967f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79832214591038d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMake/添加一个目录下所有的源文件到CMake里.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "添加一个目录下所有的源文件到CMake里"
+            }
+          },
+          {
+            "id": "1e56b459cb42ff70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-记录/PWD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PWD"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f570f962045cd84",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b19bdac5e3a9f5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0012715ce10cbb2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6e1cbf646a65470f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:CMake  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "20c3c6857391c083",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "7d1a8e0248ccac11",
+    "type": "split",
+    "children": [
+      {
+        "id": "182bf0948f9ec9d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b69717c33db5ad8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "godot🐷/问题大全.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "问题大全 的反向链接列表"
+            }
+          },
+          {
+            "id": "787e3be4687bd5f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2-记录/17岁/10月/2025-10-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-10-16 的出链列表"
+            }
+          },
+          {
+            "id": "d2fa975242506f11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e7dc188f2789a392",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3100d7aaef16c5c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cpp/套接字通信 asio/示例.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "示例 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "1e56b459cb42ff70",
+  "lastOpenFiles": [
+    "2-记录/云嵌/lesson1/2026云嵌电控组第一次任务安排补充.md",
+    "2-记录/云嵌/lesson1/video_20251019_204140.mp4",
+    "2-记录/云嵌/lesson1/main.md",
+    "2-记录/云嵌/lesson1/task13/终端编译截图.png",
+    "2-记录/云嵌/电控学习 (1).md",
+    "CMake/添加支持clangd语法提示.md",
+    "Cpp/chrono/获取系统时刻.md",
+    "Cpp/chrono/什么是chrono模块.md",
+    "Cpp/套接字通信 SFML/README.md",
+    "Cpp/chrono",
+    "CMake/EXECUTABLE_OUTPUT_PATH变量.md",
+    "Cpp/套接字通信 SFML",
+    "CMake/添加一个目录下所有的源文件到CMake里.md",
+    "Cpp/问题.md",
+    "CMake/在CMake里添加头文件.md",
+    "CMake/添加源文件在CMake里.md",
+    "CMake/链接库到可执行文件中.md",
+    "1-stm32f103c8t6♥️/硬件驱动/mpu6050/卡尔曼滤波.md",
+    "3-项目经历/stm32平衡小车/10-15.md",
+    "2-记录/18岁/10月/2025-10-27.md",
+    "2-记录/屏幕录像 2025-10-28 00:07:33.avi",
+    "2-记录/云嵌/lesson1/task13/终端效果演示图.png",
+    "2-记录/云嵌/lesson1/task13/main.c",
+    "2-记录/云嵌/lesson1/task13",
+    "2-记录/云嵌/lesson1/task12/终端编译截图.png",
+    "2-记录/云嵌/lesson1/task12/终端效果演示图.png",
+    "2-记录/云嵌/lesson1/task12/main.c",
+    "2-记录/云嵌/lesson1/task12",
+    "2-记录/云嵌/lesson1/task11/终端编译截图.png",
+    "2-记录/云嵌/lesson1/task11/终端演示效果图.png",
+    "2-记录/云嵌/lesson1/task11/main.c",
+    "2-记录/云嵌/lesson1/task11",
+    "2-记录/云嵌/lesson1/task10/终端编译截图.png",
+    "2-记录/云嵌/lesson1/task10/终端演示效果图.png",
+    "2-记录/云嵌/lesson1/task8/终端编译截图.png",
+    "2-记录/云嵌/lesson1/task8/终端演示效果图.png",
+    "2-记录/18岁/10月/2025-10-26.md",
+    "Cpp/文件检测 efsw/示例.md",
+    "Cpp/读取整个文件.md",
+    "Cpp/套接字通信 asio/示例.md",
+    "Cpp/README.md",
+    "Electron/tutorial/intro.md",
+    "Electron/tutorial 1/intro.md",
+    "Electron/README.md",
+    "Cpp/在项目中使用CMake.md"
+  ]
+}

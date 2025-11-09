@@ -9,8 +9,15 @@ DeepSeek告诉我如何使用openocd把编译好的elf文件烧录进stm32中。
 openocd -f interface/stlink-v2.cfg -f target/stm32f1x.cfg -c "program firmware.elf verify reset exit"
 ```
 
+```sh
+#!/usr/bin/bash
+openocd -f interface/stlink-v2.cfg -f target/stm32f1x.cfg -c "program firmware.elf verify reset exit"
+```
+
 这里面的firmware.elf就是你编译出来的elf文件，文件名字要根据实际情况更改。
 
 然后真的成功了，程序被成功烧录进去了。
 
 破cubeide，我还以为我出<span style="color: red;">问题</span>了。我后面测试了一下，我原来那个芯片是可以的。服了，破cubeide。
+
+

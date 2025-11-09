@@ -27,7 +27,7 @@
 
 # 计算机
 [[nuxt⚡/README]]
-[[算法/README]]
+[[4-算法/README]]
 [[Linux/README]]
 [[git/README]]
 [[Electron/README]]

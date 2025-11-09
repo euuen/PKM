@@ -137,3 +137,10 @@ dist
 2-记录/
 videos/
 pri*
+noti
+*.tar.gz
+*.rar
+*.zip
+*.mp4
+参考资料/
+文件/
