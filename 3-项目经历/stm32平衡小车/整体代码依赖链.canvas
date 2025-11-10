@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4a994391763defc1","type":"file","file":"3-项目经历/stm32平衡小车/mpu6050驱动/mpu6050依赖链.canvas","x":-82,"y":29,"width":400,"height":400},
+		{"id":"c0e873675fcce554","x":-82,"y":600,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"1cbe3d69d6b9e3ac","fromNode":"4a994391763defc1","fromSide":"bottom","toNode":"c0e873675fcce554","toSide":"top"}
+	]
+}

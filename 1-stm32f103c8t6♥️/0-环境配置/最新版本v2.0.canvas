@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"1b713566e67cbacf","type":"text","text":"# CubeMX相关的配置\n","x":-20,"y":-260,"width":462,"height":60},
+		{"id":"b2525019d8b6ad3a","type":"text","text":"然后点击右上角的，生成代码，就可以很方便的生成项目","x":-5,"y":280,"width":433,"height":77},
+		{"id":"1cfd421f3d182df7","type":"file","file":"1-stm32f103c8t6♥️/0-环境配置/Pasted image 20251109162926.png","x":680,"y":357,"width":400,"height":246},
+		{"id":"4c9debbc938c1b37","type":"text","text":"# 需要的工具\n\n1. vscode \n2. cmake \n3. ninja \n4. arm-none-eabi-gcc\n5. openocd\n6. (可选)ubuntu(操作系统)/Windows(操作系统)\n7. (可选)clangd(代码提示)\n","x":-680,"y":-260,"width":440,"height":274},
+		{"id":"f6c28f3b447a3d32","x":-585,"y":357,"width":250,"height":60,"type":"text","text":"# VSCode"},
+		{"id":"d8e9f2dd831b33cf","x":-849,"y":520,"width":778,"height":380,"type":"text","text":"# 编译项目\n在根目录下面输入下面这行命令就可以用cmake构建CubeMX生成的项目了\n\n```sh\ncmake --preset Release\n```\n\n但是注意，这里还只是刚刚构建好，还没有真的编译呢\n\n要编译需要在根目录下面输入\n\n```cmake\ncmake --build --preset Release\n```\n\n然后就去`build/Release`目录下面找.elf文件就好了\n"},
+		{"id":"90972f798859db1f","type":"file","file":"1-stm32f103c8t6♥️/0-环境配置/Pasted image 20251109020358.png","x":680,"y":-279,"width":1835,"height":489},
+		{"id":"4ab65fb8f71f72a8","x":-587,"y":1080,"width":987,"height":280,"type":"text","text":"# Windows下\n\n创建一个新的bat文件，输入下面的指令到bat文件里面，然后保存在`build/Release`目录下面\n\n```sh\nopenocd -f interface/stlink-v2.cfg -f target/stm32f1x.cfg -c \"program firmware.elf verify reset exit\"\n```\n\n记得把`firmware.elf`的文件名改为实际的名字\n\n"},
+		{"id":"b01669df12628da2","type":"text","text":"用CubeMX配置好项目之后，`CTRL+S`保存项目文件，选择一个你喜欢的path，然后选择Toolchain为CMake","x":-38,"y":-34,"width":499,"height":140},
+		{"id":"ed5abec69a9dd7f4","x":303,"y":760,"width":250,"height":60,"type":"text","text":"# 烧录"},
+		{"id":"f9a072fe8a7c4fb7","x":480,"y":1080,"width":1000,"height":360,"type":"text","text":"# Linux下\n\n创建一个新的文件，然后名字叫`run`，在里面写上下面的内容\n\n```sh\n#!/usr/bin/bash\nopenocd -f interface/stlink-v2.cfg -f target/stm32f1x.cfg -c \"program firmware.elf verify reset exit\"\n```\n\n然后在改一下这个文件为可运行文件\n\n```sh\nchmod +x ./run\n```\n\n"},
+		{"id":"81df280d80ce3eec","x":1720,"y":603,"width":795,"height":837,"type":"text","text":"# 参考资料\n\n1. [[1-stm32f103c8t6♥️/1-教程/4-ADC读取PWM/essay]]\n"}
+	],
+	"edges":[
+		{"id":"0e94bba86924cd30","fromNode":"1b713566e67cbacf","fromSide":"bottom","toNode":"b01669df12628da2","toSide":"top"},
+		{"id":"da45a5f21d259bac","fromNode":"b01669df12628da2","fromSide":"right","toNode":"90972f798859db1f","toSide":"left"},
+		{"id":"4cdeef0acf54c51c","fromNode":"b01669df12628da2","fromSide":"bottom","toNode":"b2525019d8b6ad3a","toSide":"top"},
+		{"id":"f11963a07ffdd099","fromNode":"b2525019d8b6ad3a","fromSide":"right","toNode":"1cfd421f3d182df7","toSide":"left"},
+		{"id":"608217f8f88a0f9d","fromNode":"4c9debbc938c1b37","fromSide":"bottom","toNode":"1b713566e67cbacf","toSide":"top"},
+		{"id":"dc7b7c71826021eb","fromNode":"b2525019d8b6ad3a","fromSide":"bottom","toNode":"f6c28f3b447a3d32","toSide":"top"},
+		{"id":"9bbbe3c17454dc34","fromNode":"f6c28f3b447a3d32","fromSide":"bottom","toNode":"d8e9f2dd831b33cf","toSide":"top"},
+		{"id":"45702a1408057718","fromNode":"d8e9f2dd831b33cf","fromSide":"bottom","toNode":"ed5abec69a9dd7f4","toSide":"top"},
+		{"id":"06bc9a31536a29aa","fromNode":"ed5abec69a9dd7f4","fromSide":"bottom","toNode":"4ab65fb8f71f72a8","toSide":"top"},
+		{"id":"9b9aea3ffce6a203","fromNode":"ed5abec69a9dd7f4","fromSide":"bottom","toNode":"f9a072fe8a7c4fb7","toSide":"top"}
+	]
+}

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c00b63255a4c1f8",
+        "id": "6786809105d51c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "ca840867813f574a",
+            "id": "d75cd4af966c22f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "最新版本v2.0"
             }
+          },
+          {
+            "id": "dd2f6fe642b2443f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.canvas",
+                "viewState": {
+                  "x": 833,
+                  "y": 580.5,
+                  "zoom": -1.659940153503864
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "最新版本v2.0"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cmake",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.md",
+                "file": "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,10 +202,19 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ca840867813f574a",
+  "active": "dd2f6fe642b2443f",
   "lastOpenFiles": [
-    "1-stm32f103c8t6♥️/烧录程序到stm32中.md",
     "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.md",
+    "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.canvas",
+    "1-stm32f103c8t6♥️/1-教程/1-点亮自带的LED/main.canvas",
+    "1-stm32f103c8t6♥️/1-教程/1-点亮自带的LED/index.md",
+    "3-项目经历/stm32平衡小车/整体代码依赖链.canvas",
+    "3-项目经历/stm32平衡小车/mpu6050驱动/mpu6050依赖链.canvas",
+    "1-stm32f103c8t6♥️/delay_us.md",
+    "3-项目经历/stm32平衡小车/mpu6050驱动",
+    "电子元器件🍆/OLED/驱动/使用说明.md",
+    "电子元器件🍆/OLED.zip",
+    "1-stm32f103c8t6♥️/烧录程序到stm32中.md",
     "1-stm32f103c8t6♥️/0-环境配置/Pasted image 20251109163510.png",
     "1-stm32f103c8t6♥️/0-环境配置/Pasted image 20251109162926.png",
     "1-stm32f103c8t6♥️/中断/NVIC和中断向量表.md",
@@ -206,8 +233,6 @@
     "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_reordered_no_shift.c",
     "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_no_shift.c",
     "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mult_q7.c",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_nn_mult_q15.c",
     "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/1.资料/pid-simulator-web-master/img/icon.png",
     "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/1.资料/pid-simulator-web-master/img/gitee.png",
     "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/1.资料/pid-simulator-web-master/img/csdn.png",
@@ -216,7 +241,6 @@
     "1-stm32f103c8t6♥️/1-教程/4-ADC读取PWM/essay.md",
     "1-stm32f103c8t6♥️/1-教程/4-ADC读取PWM/Pasted image 20251105234459.png",
     "1-stm32f103c8t6♥️/1-教程/2-USART通信/essay.md",
-    "1-stm32f103c8t6♥️/1-教程/1-点亮自带的LED/index.md",
     "CMake/添加一个目录下所有的源文件到CMake里.md",
     "CMake/添加源文件在CMake里.md",
     "CMake/在CMake里添加头文件.md",
@@ -229,8 +253,6 @@
     "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包/1.资料/pid-simulator-web-master/img/gitee.png",
     "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包/1.资料/pid-simulator-web-master/img/csdn.png",
     "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包/1.资料/pid-simulator-web-master/README.md",
-    "3-项目经历/stm32平衡小车/520小车原理图.md",
-    "1-stm32f103c8t6♥️/问题和解决/Warn UNEXPECTED idcode 0x2ba01477 Error expected 1 of 1 0x1ba01477.md",
     "2-记录/情感/关键.canvas"
   ]
 }
