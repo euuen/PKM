@@ -6,3 +6,7 @@
   --h5-color: #118ab2; /* 深天蓝 */
   --h6-color: #073b4c; /* 深蓝黑 */
 }
+
+.el-h1 > h1 {
+  text-align: center;
+}

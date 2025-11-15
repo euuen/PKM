@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6786809105d51c4a",
+        "id": "4d4669909b04c6ca",
         "type": "tabs",
         "children": [
           {
-            "id": "d75cd4af966c22f8",
+            "id": "beb29b5979ee2a71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.md",
+                "file": "stm32f407vet6/CCMRAW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最新版本v2.0"
-            }
-          },
-          {
-            "id": "dd2f6fe642b2443f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.canvas",
-                "viewState": {
-                  "x": 833,
-                  "y": 580.5,
-                  "zoom": -1.659940153503864
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "最新版本v2.0"
+              "title": "CCMRAW"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "卡尔曼",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5026054382324
+    "width": 310.5026054382324
   },
   "right": {
     "id": "7542a2bf3bbf5b67",
@@ -131,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-记录/PWD.md",
+                "file": "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置/main.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "PWD 的出链列表"
+              "title": "main 的出链列表"
             }
           },
           {
@@ -160,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.canvas",
+                "file": "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置/main.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "最新版本v2.0 的大纲"
+              "title": "main 的大纲"
             }
           },
           {
@@ -182,13 +164,26 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "8e95ce26bc4a68c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置/main.canvas"
+              },
+              "icon": "lucide-info",
+              "title": "main的笔记属性"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,60 +194,66 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dd2f6fe642b2443f",
+  "active": "beb29b5979ee2a71",
   "lastOpenFiles": [
-    "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.md",
-    "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.canvas",
-    "1-stm32f103c8t6♥️/1-教程/1-点亮自带的LED/main.canvas",
-    "1-stm32f103c8t6♥️/1-教程/1-点亮自带的LED/index.md",
-    "3-项目经历/stm32平衡小车/整体代码依赖链.canvas",
-    "3-项目经历/stm32平衡小车/mpu6050驱动/mpu6050依赖链.canvas",
-    "1-stm32f103c8t6♥️/delay_us.md",
-    "3-项目经历/stm32平衡小车/mpu6050驱动",
-    "电子元器件🍆/OLED/驱动/使用说明.md",
-    "电子元器件🍆/OLED.zip",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/重定向printf.md",
+    "stm32f407vet6/CCMRAW.md",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/输出浮点数.md",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/可移植代码.md",
+    "1-stm32f103c8t6♥️/4-中断/外部中断EXTI.md",
+    "stm32f407vet6/README.md",
+    "stm32f407vet6/参考资料/STM32F407VE开发板--原理图-2019M(新液晶接口).pdf",
+    "stm32f407vet6/参考资料",
     "1-stm32f103c8t6♥️/烧录程序到stm32中.md",
-    "1-stm32f103c8t6♥️/0-环境配置/Pasted image 20251109163510.png",
-    "1-stm32f103c8t6♥️/0-环境配置/Pasted image 20251109162926.png",
-    "1-stm32f103c8t6♥️/中断/NVIC和中断向量表.md",
-    "1-stm32f103c8t6♥️/中断/外部中断EXTI.md",
-    "1-stm32f103c8t6♥️/中断/串口USART中断.md",
-    "1-stm32f103c8t6♥️/1-教程/3-读取按键输入/index.md",
-    "2-记录/云嵌/lesson2/云嵌第二次电控考核(1).md",
-    "2-记录/云嵌/lesson2",
-    "1-stm32f103c8t6♥️/0-环境配置/Pasted image 20251109020358.png",
-    "1-stm32f103c8t6♥️/0-环境配置/v1.0.md",
-    "CMake/CMakePresets.md",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/docs/General/html/LICENSE.txt",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_q7.c",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/SoftmaxFunctions/arm_softmax_q15.c",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/PoolingFunctions/arm_pool_q7_HWC.c",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_reordered_no_shift.c",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_q7_to_q15_no_shift.c",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/2.程序/3.b站视频源代码/7.Uart/Drivers/CMSIS/NN/Source/NNSupportFunctions/arm_nntables.c",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/1.资料/pid-simulator-web-master/img/icon.png",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/1.资料/pid-simulator-web-master/img/gitee.png",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/1.资料/pid-simulator-web-master/img/csdn.png",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包（解压失败请更换解压软件重试）/1.资料/pid-simulator-web-master/README.md",
-    "1-stm32f103c8t6♥️/stm32初始化流程.md",
-    "1-stm32f103c8t6♥️/1-教程/4-ADC读取PWM/essay.md",
-    "1-stm32f103c8t6♥️/1-教程/4-ADC读取PWM/Pasted image 20251105234459.png",
-    "1-stm32f103c8t6♥️/1-教程/2-USART通信/essay.md",
-    "CMake/添加一个目录下所有的源文件到CMake里.md",
-    "CMake/添加源文件在CMake里.md",
-    "CMake/在CMake里添加头文件.md",
-    "CMake/添加支持clangd语法提示.md",
-    "CMake/添加宏定义.md",
-    "CMake/生成链接库.md",
-    "CMake/链接库到可执行文件中.md",
-    "CMake/最小的CMakeList.md",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包/1.资料/pid-simulator-web-master/img/icon.png",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包/1.资料/pid-simulator-web-master/img/gitee.png",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包/1.资料/pid-simulator-web-master/img/csdn.png",
-    "3-项目经历/stm32平衡小车/参考资料/STM平衡小车资料包/1.资料/pid-simulator-web-master/README.md",
+    "stm32f407vet6/481bc3149e508c4989199cbe0c6ac8d0.png",
+    "stm32f407vet6",
+    "ROS2/README.md",
+    "README.md",
+    "ROS2",
+    "Welcome.md",
+    "2-记录/云嵌/电控组招新快速通道.md",
+    "2-记录/云嵌/电控学习任务v2.0.md",
+    "2-记录/电控学习安排2025.md",
+    "1-stm32f103c8t6♥️/9-通信/CAN通信/main.canvas",
+    "1-stm32f103c8t6♥️/硬件驱动/mpu6050/main.canvas",
+    "3-项目经历/stm32平衡小车/mpu6050驱动/mpu6050依赖链.canvas",
+    "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.canvas",
+    "3-项目经历/stm32平衡小车/小车架构图.canvas",
+    "电子元器件🍆/OLED/SSD1306.md",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/main.md",
+    "1-stm32f103c8t6♥️/5-编码器/如何读取编码器/好玩.md",
+    "重构理解/能力.md",
+    "1-stm32f103c8t6♥️/5-编码器/如何读取编码器/main.md",
+    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/main.canvas",
+    "1-stm32f103c8t6♥️/硬件驱动/mpu6050/问题大全.md",
+    "1-stm32f103c8t6♥️/硬件驱动/mpu6050/卡尔曼滤波.md",
+    "1-stm32f103c8t6♥️/硬件驱动/mpu6050/main.md",
+    "1-stm32f103c8t6♥️/4-中断/串口USART中断.md",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/main.canvas",
+    "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.md",
+    "1-stm32f103c8t6♥️/引脚分布.png",
+    "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置/main.canvas",
+    "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置/main.md",
+    "1-stm32f103c8t6♥️/9-通信/I2C通信/可移植代码.md",
+    "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251111151447.png",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251111151237.png",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251105181706.png",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251111142627.png",
+    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置串口中断",
+    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/Pasted image 20251110232510.png",
+    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/Pasted image 20251110233521.png",
+    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/Pasted image 20251110232625.png",
+    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/Pasted image 20251110232057.png",
+    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/imgs",
+    "1-stm32f103c8t6♥️/9-通信/USART通信",
+    "1-stm32f103c8t6♥️/1-教程/1-点亮自带的LED/main.canvas",
     "2-记录/情感/关键.canvas"
   ]
 }

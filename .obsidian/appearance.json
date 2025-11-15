@@ -2,9 +2,10 @@
   "enabledCssSnippets": [
     "heading"
   ],
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Border",
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 16
 }

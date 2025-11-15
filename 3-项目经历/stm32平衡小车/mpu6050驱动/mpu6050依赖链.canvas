@@ -1,14 +1,61 @@
 {
 	"nodes":[
-		{"id":"aff3f664d8181aac","x":-220,"y":100,"width":425,"height":60,"type":"text","text":"inv_mpu_dmp_motion_driver.c/.h"},
-		{"id":"aa6ce0485e99aaa7","x":320,"y":100,"width":250,"height":60,"type":"text","text":"mpu6050.c/.h"},
-		{"id":"70784732843b661f","x":120,"y":340,"width":250,"height":50,"type":"text","text":"inv_mpu.c/.h"},
-		{"id":"b6d1f7a41bd8e9f7","x":-520,"y":240,"width":388,"height":60,"type":"text","text":"# mpu6050依赖链"},
-		{"id":"86ba5065652a7fda","x":320,"y":-60,"width":250,"height":60,"type":"text","text":"IIC.c/.h"}
+		{
+			"id":"aff3f664d8181aac",
+			"type":"text",
+			"text":"inv_mpu_dmp_motion_driver.c/.h",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-220,
+			"y":100,
+			"width":425,
+			"height":60
+		},
+		{
+			"id":"aa6ce0485e99aaa7",
+			"type":"text",
+			"text":"mpu6050.c/.h",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":320,
+			"y":100,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"70784732843b661f",
+			"type":"text",
+			"text":"inv_mpu.c/.h",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":120,
+			"y":340,
+			"width":250,
+			"height":50
+		},
+		{
+			"id":"86ba5065652a7fda",
+			"type":"text",
+			"text":"IIC.c/.h",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":320,
+			"y":-60,
+			"width":250,
+			"height":60
+		}
 	],
 	"edges":[
 		{"id":"b14deb86f4523244","fromNode":"aff3f664d8181aac","fromSide":"bottom","toNode":"70784732843b661f","toSide":"top","label":"主"},
 		{"id":"55b4d5d42fbb7fa9","fromNode":"aa6ce0485e99aaa7","fromSide":"bottom","toNode":"70784732843b661f","toSide":"top","label":"副"},
 		{"id":"953c47a7f38b0f7c","fromNode":"86ba5065652a7fda","fromSide":"bottom","toNode":"aa6ce0485e99aaa7","toSide":"top"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }
