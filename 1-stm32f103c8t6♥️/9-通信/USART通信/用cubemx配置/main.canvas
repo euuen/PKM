@@ -14,6 +14,36 @@
 			"width":644,
 			"height":1300
 		},
+		{
+			"id":"2af1044393ebd8e4",
+			"type":"text",
+			"text":"设置Baud Rate的值就好了，这里是默认的115200",
+			"styleAttributes":{},
+			"x":-1364,
+			"y":820,
+			"width":460,
+			"height":60
+		},
+		{
+			"id":"b9330adf7caaf72b",
+			"type":"text",
+			"text":"# 参考资料\n\n1. 【【STM32入门教程-2025】第9集 STM32串口原理与串口中断模式收发 | keysking的stm32教程】 https://www.bilibili.com/video/BV1bc411J7Tv/?share_source=copy_web&vd_source=d8165ccc8db4f797937e2198122cfca4\n2. 【【STM32入门教程-2025】第9集 STM32串口原理与串口中断模式收发 | keysking的stm32教程】 https://www.bilibili.com/video/BV1bc411J7Tv/?share_source=copy_web&vd_source=d8165ccc8db4f797937e2198122cfca4\n3. 【【工作STM32】第10集 STM32串口DMA模式与收发不定长数据 | keysking的stm32教程】 https://www.bilibili.com/video/BV1do4y1F7wt/?share_source=copy_web&vd_source=d8165ccc8db4f797937e2198122cfca4\n",
+			"styleAttributes":{},
+			"x":-1258,
+			"y":-413,
+			"width":748,
+			"height":546
+		},
+		{
+			"id":"525ebf94707c0b5d",
+			"type":"text",
+			"text":"# 配置波特率\n",
+			"styleAttributes":{},
+			"x":-1334,
+			"y":680,
+			"width":400,
+			"height":60
+		},
 		{"id":"0781f9863e955b7b","type":"file","file":"1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251111142627.png","x":-466,"y":980,"width":833,"height":580},
 		{
 			"id":"50c696af94048f9a",
@@ -26,6 +56,16 @@
 			"height":1300
 		},
 		{
+			"id":"088ee4e94f56fc3d",
+			"type":"text",
+			"text":"# 第一步 启用串口通信\n\n点击 Connectivity -> USART1 -> Mode -> Asynchronous",
+			"styleAttributes":{},
+			"x":-360,
+			"y":20,
+			"width":620,
+			"height":113
+		},
+		{
 			"id":"bdc5be84f22c77e5",
 			"type":"text",
 			"text":"# 用DMA收发信息\n\n其实DMA和中断差不多，只是是说用DMA帮CPU搬运数据罢了，所以实际上**把中断的IT改为DMA就可以直接用DMA了。**\n\n**用DMA比用中断速度更快**",
@@ -35,18 +75,17 @@
 			"width":760,
 			"height":200
 		},
-		{"id":"78d6b8ae44c2d8c8","type":"file","file":"1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251111151237.png","x":1440,"y":783,"width":793,"height":540},
 		{
-			"id":"02176060336571f8",
+			"id":"35ec4c9f703cc412",
 			"type":"text",
-			"text":"想我这样，添加RX和TX的通道\n\n参数不需要你管，CubeMX默认的参数就可以了",
+			"text":"# 接收不定长数据\n\n接收不定长数据的原理就是，当串口不再发送数据的时候，stm32就认为数据已经发送完毕，这个时候就会触发一个Callback，这里就以DMA为例子了。其实这就是，**空闲中断**\n\n# 启用空闲中断接收\n\n这里的size，**不是**指我要接收的数据长度，**而是，一次性能接收的最大长度**\n\n```cpp\nHAL_UARTEx_ReceiveToIdle_DMA(huart, data ,size);\n// 关闭传输过半中断\n__HAL_DMA_DISABLE_IT(&hdma_usartX_rx, DMA_IT_HT);\n```\n\n然后**定义Callback函数**，来处理中断事件\n\n```cpp\nvoid HAL_UARTEx_RxEventCallback(UART_HandleTypeDef* huart, uint16_t size){\n\t// 判断是谁触发了中断\n\tif (huart == expected){\n\t\t// 处理data...\n\t\t// 再次启用DMA\n\t\tHAL_UARTEx_ReceiveToIdle_DMA(huart, data, size);\n\t\t// 关闭传输过半中断\n\t\t__HAL_DMA_DISABLE_IT(&hdma_usartX_rx, DMA_IT_HT);\n\t}\n}\n```",
 			"styleAttributes":{},
-			"x":2400,
-			"y":998,
-			"width":400,
-			"height":110
+			"x":600,
+			"y":2160,
+			"width":943,
+			"height":720
 		},
-		{"id":"3d9c7aa8e6eeb8ce","type":"file","file":"1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251111151447.png","x":2964,"y":783,"width":793,"height":540},
+		{"id":"d88520ae8b187902","type":"file","file":"1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251105181706.png","x":698,"y":-413,"width":839,"height":546},
 		{
 			"id":"4ee923d424f99948",
 			"type":"text",
@@ -68,36 +107,6 @@
 			"height":60
 		},
 		{
-			"id":"35ec4c9f703cc412",
-			"type":"text",
-			"text":"# 接收不定长数据\n\n接收不定长数据的原理就是，当串口不再发送数据的时候，stm32就认为数据已经发送完毕，这个时候就会触发一个Callback，这里就以DMA为例子了。其实这就是，**空闲中断**\n\n# 启用空闲中断接收\n\n这里的size，**不是**指我要接收的数据长度，**而是，一次性能接收的最大长度**\n\n```cpp\nHAL_UARTEx_ReceiveToIdle_DMA(huart, data ,size);\n// 关闭传输过半中断\n__HAL_DMA_DISABLE_IT(&hdma_usartX_rx, DMA_IT_HT);\n```\n\n然后**定义Callback函数**，来处理中断事件\n\n```cpp\nvoid HAL_UARTEx_RxEventCallback(UART_HandleTypeDef* huart, uint16_t size){\n\t// 判断是谁触发了中断\n\tif (huart == expected){\n\t\t// 处理data...\n\t\t// 再次启用DMA\n\t\tHAL_UARTEx_ReceiveToIdle_DMA(huart, data, size);\n\t\t// 关闭传输过半中断\n\t\t__HAL_DMA_DISABLE_IT(&hdma_usartX_rx, DMA_IT_HT);\n\t}\n}\n```",
-			"styleAttributes":{},
-			"x":600,
-			"y":2160,
-			"width":943,
-			"height":720
-		},
-		{
-			"id":"088ee4e94f56fc3d",
-			"type":"text",
-			"text":"# 第一步 启用串口通信\n\n点击 Connectivity -> USART1 -> Mode -> Asynchronous",
-			"styleAttributes":{},
-			"x":-360,
-			"y":20,
-			"width":620,
-			"height":113
-		},
-		{
-			"id":"2af1044393ebd8e4",
-			"type":"text",
-			"text":"设置Baud Rate的值就好了，这里是默认的115200",
-			"styleAttributes":{},
-			"x":-1364,
-			"y":820,
-			"width":460,
-			"height":60
-		},
-		{
 			"id":"3f8ceb68cf9e0a03",
 			"type":"text",
 			"text":"# 用CubeMX配置串口通信",
@@ -107,7 +116,6 @@
 			"width":460,
 			"height":60
 		},
-		{"id":"d88520ae8b187902","type":"file","file":"1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251105181706.png","x":698,"y":-413,"width":839,"height":546},
 		{
 			"id":"4195961ab589305d",
 			"type":"text",
@@ -138,26 +146,18 @@
 			"width":400,
 			"height":60
 		},
+		{"id":"78d6b8ae44c2d8c8","type":"file","file":"1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251111151237.png","x":1440,"y":783,"width":793,"height":540},
 		{
-			"id":"b9330adf7caaf72b",
+			"id":"02176060336571f8",
 			"type":"text",
-			"text":"# 参考资料\n\n1. 【【STM32入门教程-2025】第9集 STM32串口原理与串口中断模式收发 | keysking的stm32教程】 https://www.bilibili.com/video/BV1bc411J7Tv/?share_source=copy_web&vd_source=d8165ccc8db4f797937e2198122cfca4\n2. 【【STM32入门教程-2025】第9集 STM32串口原理与串口中断模式收发 | keysking的stm32教程】 https://www.bilibili.com/video/BV1bc411J7Tv/?share_source=copy_web&vd_source=d8165ccc8db4f797937e2198122cfca4\n3. 【【工作STM32】第10集 STM32串口DMA模式与收发不定长数据 | keysking的stm32教程】 https://www.bilibili.com/video/BV1do4y1F7wt/?share_source=copy_web&vd_source=d8165ccc8db4f797937e2198122cfca4\n",
+			"text":"想我这样，添加RX和TX的通道\n\n参数不需要你管，CubeMX默认的参数就可以了",
 			"styleAttributes":{},
-			"x":-1258,
-			"y":-413,
-			"width":748,
-			"height":546
-		},
-		{
-			"id":"525ebf94707c0b5d",
-			"type":"text",
-			"text":"# 配置波特率\n",
-			"styleAttributes":{},
-			"x":-1334,
-			"y":680,
+			"x":2400,
+			"y":998,
 			"width":400,
-			"height":60
-		}
+			"height":110
+		},
+		{"id":"3d9c7aa8e6eeb8ce","type":"file","file":"1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251111151447.png","x":2964,"y":783,"width":793,"height":540}
 	],
 	"edges":[
 		{

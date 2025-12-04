@@ -29,9 +29,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "ESP32-S3-WROOM😍": {
-    "iconName": "LiBaby",
-    "iconColor": "#be2323"
   }
 }

@@ -4,21 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "4d4669909b04c6ca",
+        "id": "543fd2d9912b848f",
         "type": "tabs",
         "children": [
           {
-            "id": "beb29b5979ee2a71",
+            "id": "21511f25fff96ba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stm32f407vet6/CCMRAW.md",
+                "file": "3-项目经历/DAC音乐输出/main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CCMRAW"
+              "title": "main"
+            }
+          },
+          {
+            "id": "0d5d32f2f6712515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-stm32f103c8t6♥️/9-通信/USART通信/重定向printf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "重定向printf"
+            }
+          },
+          {
+            "id": "4f6086b75b24f3d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-stm32f103c8t6♥️/4-中断/定时器中断/main.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "main"
+            }
+          },
+          {
+            "id": "b0fe4c8bafbfd769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-stm32f103c8t6♥️/烧录程序到stm32中.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "烧录程序到stm32中"
             }
           }
         ]
@@ -53,8 +95,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "卡尔曼",
-                "matchingCase": true,
+                "query": "动态链接",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5026054382324
+    "width": 359.5
   },
   "right": {
     "id": "7542a2bf3bbf5b67",
@@ -113,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置/main.canvas",
+                "file": "vscode/VSCode使用指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "main 的出链列表"
+              "title": "VSCode使用指南 的出链列表"
             }
           },
           {
@@ -142,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置/main.canvas",
+                "file": "2-记录/友链.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "main 的大纲"
+              "title": "友链 的大纲"
             }
           },
           {
@@ -178,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -198,62 +240,63 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "beb29b5979ee2a71",
+  "active": "21511f25fff96ba2",
   "lastOpenFiles": [
-    "1-stm32f103c8t6♥️/9-通信/USART通信/重定向printf.md",
-    "stm32f407vet6/CCMRAW.md",
-    "1-stm32f103c8t6♥️/9-通信/USART通信/输出浮点数.md",
-    "1-stm32f103c8t6♥️/9-通信/USART通信/可移植代码.md",
-    "1-stm32f103c8t6♥️/4-中断/外部中断EXTI.md",
-    "stm32f407vet6/README.md",
+    "3-项目经历/DAC音乐输出/Pasted image 20251204211523.png",
+    "1-stm32f103c8t6♥️/6-定时器/通用计时器.md",
+    "3-项目经历/DAC音乐输出/main.md",
+    "3-项目经历/DAC音乐输出",
     "stm32f407vet6/参考资料/STM32F407VE开发板--原理图-2019M(新液晶接口).pdf",
-    "stm32f407vet6/参考资料",
-    "1-stm32f103c8t6♥️/烧录程序到stm32中.md",
     "stm32f407vet6/481bc3149e508c4989199cbe0c6ac8d0.png",
-    "stm32f407vet6",
-    "ROS2/README.md",
-    "README.md",
-    "ROS2",
-    "Welcome.md",
-    "2-记录/云嵌/电控组招新快速通道.md",
+    "Linux/wine/安装wine.md",
+    "1-stm32f103c8t6♥️/使用gdb/下载gdb.md",
+    "Linux/wine",
+    "1-stm32f103c8t6♥️/使用gdb/使用openocd连接stm32.md",
+    "1-stm32f103c8t6♥️/使用gdb/未命名",
+    "Cpp/文件检测 efsw/示例.md",
+    "1-stm32f103c8t6♥️/使用gdb",
+    "4-算法/PID/基本代码.md",
     "2-记录/云嵌/电控学习任务v2.0.md",
+    "3-项目经历/stm32平衡小车/小车架构图.canvas",
     "2-记录/电控学习安排2025.md",
-    "1-stm32f103c8t6♥️/9-通信/CAN通信/main.canvas",
+    "2-记录/17岁/8月/2025-8-29.md",
+    "2-记录/17岁/8月/2025-8-27.md",
+    "1-stm32f103c8t6♥️/8-模拟输出PWM输出/main.md",
+    "1-stm32f103c8t6♥️/烧录程序到stm32中.md",
+    "3-项目经历/stm32平衡小车/520小车原理图.md",
+    "2-记录/云嵌/电控组招新快速通道.md",
+    "2-记录/云嵌/电控学习 (1).md",
+    "2-记录/长沙理工大学/2025网络教学平台详解.md",
+    "vbox/6.X版本挂载物理硬盘.md",
+    "vbox/linux使用vbox.md",
+    "1-stm32f103c8t6♥️/硬件驱动/lm358/README.md",
+    "1-stm32f103c8t6♥️/9-通信/I2C通信/软i2c",
+    "1-stm32f103c8t6♥️/硬件驱动/lm358/电压跟随器.png",
+    "1-stm32f103c8t6♥️/硬件驱动/lm358/引脚图.png",
+    "1-stm32f103c8t6♥️/硬件驱动/lm358",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/main.canvas",
+    "1-stm32f103c8t6♥️/Pasted image 20251116162421.png",
+    "1-stm32f103c8t6♥️/硬件驱动/oled/i2c/使用说明.md",
+    "2-记录/云嵌/lesson3.md",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/重定向printf.md",
+    "1-stm32f103c8t6♥️/4-中断/外部中断EXTI.md",
+    "1-stm32f103c8t6♥️/4-中断/定时器中断/main.md",
+    "Linux/Pasted image 20251127114947.png",
+    "1-stm32f103c8t6♥️/4-中断/定时器中断/Pasted image 20251123133031.png",
+    "1-stm32f103c8t6♥️/4-中断/定时器中断",
+    "1-stm32f103c8t6♥️/10-RTOS/任务间通信/main.canvas",
+    "1-stm32f103c8t6♥️/10-RTOS/任务间通信",
+    "1-stm32f103c8t6♥️/硬件驱动/oled/spi/oled.h",
     "1-stm32f103c8t6♥️/硬件驱动/mpu6050/main.canvas",
+    "1-stm32f103c8t6♥️/2-不错的文章/用DAC播放音乐/Pasted image 20251116220743.png",
+    "1-stm32f103c8t6♥️/2-不错的文章/用DAC播放音乐/Pasted image 20251116220454.png",
+    "1-stm32f103c8t6♥️/2-不错的文章/用DAC播放音乐/Pasted image 20251116220358.png",
+    "1-stm32f103c8t6♥️/9-通信/CAN通信/main.canvas",
     "3-项目经历/stm32平衡小车/mpu6050驱动/mpu6050依赖链.canvas",
     "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.canvas",
-    "3-项目经历/stm32平衡小车/小车架构图.canvas",
-    "电子元器件🍆/OLED/SSD1306.md",
-    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/main.md",
-    "1-stm32f103c8t6♥️/5-编码器/如何读取编码器/好玩.md",
-    "重构理解/能力.md",
-    "1-stm32f103c8t6♥️/5-编码器/如何读取编码器/main.md",
     "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/main.canvas",
-    "1-stm32f103c8t6♥️/硬件驱动/mpu6050/问题大全.md",
-    "1-stm32f103c8t6♥️/硬件驱动/mpu6050/卡尔曼滤波.md",
-    "1-stm32f103c8t6♥️/硬件驱动/mpu6050/main.md",
-    "1-stm32f103c8t6♥️/4-中断/串口USART中断.md",
-    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/main.canvas",
-    "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.md",
     "1-stm32f103c8t6♥️/引脚分布.png",
     "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置/main.canvas",
-    "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置/main.md",
-    "1-stm32f103c8t6♥️/9-通信/I2C通信/可移植代码.md",
-    "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置",
-    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251111151447.png",
-    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251111151237.png",
-    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251105181706.png",
-    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/Pasted image 20251111142627.png",
-    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置串口中断",
-    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/Pasted image 20251110232510.png",
-    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/Pasted image 20251110233521.png",
-    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/Pasted image 20251110232625.png",
-    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/Pasted image 20251110232057.png",
-    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断",
-    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置",
-    "1-stm32f103c8t6♥️/9-通信/USART通信/imgs",
-    "1-stm32f103c8t6♥️/9-通信/USART通信",
-    "1-stm32f103c8t6♥️/1-教程/1-点亮自带的LED/main.canvas",
-    "2-记录/情感/关键.canvas"
+    "1-stm32f103c8t6♥️/1-教程/1-点亮自带的LED/main.canvas"
   ]
 }

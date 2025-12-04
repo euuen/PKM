@@ -22,3 +22,5 @@ for (;;){
 	float voltage = (value / 4095.0f) * 3.3f; // 转换为实际电压
 }
 ```
+
+

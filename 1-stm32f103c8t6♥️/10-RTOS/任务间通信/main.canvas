@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{
+			"id":"76966b20122345b5",
+			"type":"text",
+			"text":"# 事件标志 (Event Flags)\n\n核心思想：用一个32位的整数作为标志位，每一位可以代表一个独立的事件。\n\n常用函数：\nosEventFlagsNew：创建事件标志组。\nosEventFlagsSet：设置指定的事件标志位。\nosEventFlagsWait：等待指定的事件标志位被设置。可以等待任意一个​ (osFlagsWaitAny) 或全部​ (osFlagsWaitAll) 标志位。\nosEventFlagsClear：清除指定的事件标志位。\n\n",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-260,
+			"width":740,
+			"height":600
+		},
+		{
+			"id":"4e9f0a5477ba955c",
+			"type":"text",
+			"text":"# 信号量",
+			"styleAttributes":{},
+			"x":220,
+			"y":-260,
+			"width":740,
+			"height":600
+		},
+		{
+			"id":"b3c050e1c2b533cf",
+			"type":"text",
+			"text":"# 消息队列",
+			"styleAttributes":{},
+			"x":1000,
+			"y":-260,
+			"width":700,
+			"height":600
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
