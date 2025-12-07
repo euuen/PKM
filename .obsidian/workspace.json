@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "543fd2d9912b848f",
+        "id": "379909a48a5d87d1",
         "type": "tabs",
         "children": [
           {
-            "id": "21511f25fff96ba2",
+            "id": "76d0eb5d068bb583",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-项目经历/DAC音乐输出/main.md",
+                "file": "1-stm32f103c8t6♥️/1-教程/6-USB和电脑通信/文章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "main"
-            }
-          },
-          {
-            "id": "0d5d32f2f6712515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-stm32f103c8t6♥️/9-通信/USART通信/重定向printf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "重定向printf"
-            }
-          },
-          {
-            "id": "4f6086b75b24f3d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-stm32f103c8t6♥️/4-中断/定时器中断/main.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "main"
-            }
-          },
-          {
-            "id": "b0fe4c8bafbfd769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-stm32f103c8t6♥️/烧录程序到stm32中.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "烧录程序到stm32中"
+              "title": "文章"
             }
           }
         ]
@@ -82,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -95,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "动态链接",
-                "matchingCase": false,
+                "query": "tag:#if",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -120,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 343.5
   },
   "right": {
     "id": "7542a2bf3bbf5b67",
@@ -155,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vscode/VSCode使用指南.md",
+                "file": "2-记录/PWD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "VSCode使用指南 的出链列表"
+              "title": "PWD 的出链列表"
             }
           },
           {
@@ -184,39 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-记录/友链.md",
+                "file": "1-stm32f103c8t6♥️/1-教程/6-USB和电脑通信/文章.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "友链 的大纲"
-            }
-          },
-          {
-            "id": "7a89f6d130e4b271",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "8e95ce26bc4a68c5",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置/main.canvas"
-              },
-              "icon": "lucide-info",
-              "title": "main的笔记属性"
+              "title": "文章 的大纲"
             }
           }
         ],
@@ -224,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,68 +166,66 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "bases:创建新数据库": false
     }
   },
-  "active": "21511f25fff96ba2",
+  "active": "76d0eb5d068bb583",
   "lastOpenFiles": [
-    "3-项目经历/DAC音乐输出/Pasted image 20251204211523.png",
-    "1-stm32f103c8t6♥️/6-定时器/通用计时器.md",
-    "3-项目经历/DAC音乐输出/main.md",
-    "3-项目经历/DAC音乐输出",
-    "stm32f407vet6/参考资料/STM32F407VE开发板--原理图-2019M(新液晶接口).pdf",
-    "stm32f407vet6/481bc3149e508c4989199cbe0c6ac8d0.png",
-    "Linux/wine/安装wine.md",
-    "1-stm32f103c8t6♥️/使用gdb/下载gdb.md",
-    "Linux/wine",
-    "1-stm32f103c8t6♥️/使用gdb/使用openocd连接stm32.md",
-    "1-stm32f103c8t6♥️/使用gdb/未命名",
-    "Cpp/文件检测 efsw/示例.md",
-    "1-stm32f103c8t6♥️/使用gdb",
-    "4-算法/PID/基本代码.md",
-    "2-记录/云嵌/电控学习任务v2.0.md",
-    "3-项目经历/stm32平衡小车/小车架构图.canvas",
-    "2-记录/电控学习安排2025.md",
-    "2-记录/17岁/8月/2025-8-29.md",
-    "2-记录/17岁/8月/2025-8-27.md",
-    "1-stm32f103c8t6♥️/8-模拟输出PWM输出/main.md",
-    "1-stm32f103c8t6♥️/烧录程序到stm32中.md",
-    "3-项目经历/stm32平衡小车/520小车原理图.md",
-    "2-记录/云嵌/电控组招新快速通道.md",
-    "2-记录/云嵌/电控学习 (1).md",
-    "2-记录/长沙理工大学/2025网络教学平台详解.md",
-    "vbox/6.X版本挂载物理硬盘.md",
-    "vbox/linux使用vbox.md",
-    "1-stm32f103c8t6♥️/硬件驱动/lm358/README.md",
-    "1-stm32f103c8t6♥️/9-通信/I2C通信/软i2c",
-    "1-stm32f103c8t6♥️/硬件驱动/lm358/电压跟随器.png",
-    "1-stm32f103c8t6♥️/硬件驱动/lm358/引脚图.png",
-    "1-stm32f103c8t6♥️/硬件驱动/lm358",
-    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/main.canvas",
-    "1-stm32f103c8t6♥️/Pasted image 20251116162421.png",
-    "1-stm32f103c8t6♥️/硬件驱动/oled/i2c/使用说明.md",
-    "2-记录/云嵌/lesson3.md",
+    "娜姐（学霸篇）/辩论赛优绩主义.docx",
+    "1-stm32f103c8t6♥️/1-教程/6-USB和电脑通信/文章.md",
+    "1-stm32f103c8t6♥️/1-教程/6-USB和电脑通信",
+    "娜姐（学霸篇）/时钟树.md",
+    "娜姐（学霸篇）/STM32系统学习/OLED驱动库（keysking）.md",
+    "娜姐（学霸篇）/图片/根目录下创建文件.mp4",
+    "3-项目经历/stm32平衡小车/参考资料/STM32 USB Mass Storage学习资料(1).pdf",
+    "3-项目经历/stm32平衡小车/参考资料/MPU-60X0寄存器中文版V4.0(1).pdf",
+    "3-项目经历/stm32平衡小车/参考资料/STM32的USB详解(1).pdf",
+    "娜姐（学霸篇）/STM32系统学习/基础知识篇.md",
+    "1-stm32f103c8t6♥️/README.md",
+    "1-stm32f103c8t6♥️/bootloader/为什么要自己定义bootloader.md",
+    "1-stm32f103c8t6♥️/9-通信/USB通信/重定向printf.md",
+    "1-stm32f103c8t6♥️/bootloader",
+    "1-stm32f103c8t6♥️/9-通信/USB通信/用USB虚拟串口给电脑发送信息.md",
     "1-stm32f103c8t6♥️/9-通信/USART通信/重定向printf.md",
-    "1-stm32f103c8t6♥️/4-中断/外部中断EXTI.md",
-    "1-stm32f103c8t6♥️/4-中断/定时器中断/main.md",
-    "Linux/Pasted image 20251127114947.png",
-    "1-stm32f103c8t6♥️/4-中断/定时器中断/Pasted image 20251123133031.png",
-    "1-stm32f103c8t6♥️/4-中断/定时器中断",
-    "1-stm32f103c8t6♥️/10-RTOS/任务间通信/main.canvas",
-    "1-stm32f103c8t6♥️/10-RTOS/任务间通信",
-    "1-stm32f103c8t6♥️/硬件驱动/oled/spi/oled.h",
-    "1-stm32f103c8t6♥️/硬件驱动/mpu6050/main.canvas",
-    "1-stm32f103c8t6♥️/2-不错的文章/用DAC播放音乐/Pasted image 20251116220743.png",
-    "1-stm32f103c8t6♥️/2-不错的文章/用DAC播放音乐/Pasted image 20251116220454.png",
-    "1-stm32f103c8t6♥️/2-不错的文章/用DAC播放音乐/Pasted image 20251116220358.png",
+    "1-stm32f103c8t6♥️/9-通信/CAN通信/可移植代码.md",
+    "1-stm32f103c8t6♥️/9-通信/CAN通信/main.md",
     "1-stm32f103c8t6♥️/9-通信/CAN通信/main.canvas",
+    "1-stm32f103c8t6♥️/9-通信/USB通信/虚拟usb串口.md",
+    "1-stm32f103c8t6♥️/4-通信/USB通信",
+    "1-stm32f103c8t6♥️/Pasted image 20251116162421.png",
+    "1-stm32f103c8t6♥️/烧录程序到stm32中.md",
+    "collection.sync-conflict-20251207-113416-NQISNXG.md",
+    "3-项目经历/stm32循迹小车/亚博八路循迹模块文档/如何和八路循迹模块通信.sync-conflict-20251207-113413-NQISNXG.md",
+    "README.sync-conflict-20251207-104319-NQISNXG.md",
+    "娜姐（学霸篇）/STM32系统学习/MH-Sensor-Series红外模块（ADC+DMA+I2C）.md",
+    "useless/重构理解/能力.md",
+    "useless/重构理解/社会.md",
+    "useless/重构理解/相对主义.md",
+    "useless/重构理解/父母.md",
+    "useless/重构理解/正理和邪恶.md",
+    "useless/重构理解/人生.md",
+    "useless/重构理解/README.md",
+    "useless/运维/阿里云服务器/对外开放端口.md",
+    "useless/设计/美化UI/imgs/QQ20250611-070850.png",
+    "useless/设计/美化UI/imgs/QQ20250611-070828.png",
+    "useless/羽毛球工作/video/mmexport1751682106665.mp4",
+    "useless/羽毛球工作/video/mmexport1751681898192.mp4",
+    "useless/电子元器件🍆/OLED/驱动/oled.h",
+    "useless/嵌入式术语🟩/imgs/Pasted image 20250805124620.png",
+    "useless/嵌入式术语🟩/imgs/Pasted image 20250805124354.png",
+    "useless/嘉丽创EDA/自动分配位号/Pasted image 20251022085217.png",
+    "useless/嘉丽创EDA/执行DRC检查/Pasted image 20251022085325.png",
+    "useless/嘉丽创EDA/如何领取优惠券/Pasted image 20251022081938.png",
+    "useless/嘉丽创EDA/如何领取优惠券/Pasted image 20251022081450.png",
+    "useless/嘉丽创EDA/如何领取优惠券/Pasted image 20251022081414.png",
+    "1-stm32f103c8t6♥️/1-教程/1-点亮自带的LED/main.canvas",
     "3-项目经历/stm32平衡小车/mpu6050驱动/mpu6050依赖链.canvas",
-    "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.canvas",
-    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/main.canvas",
-    "1-stm32f103c8t6♥️/引脚分布.png",
+    "1-stm32f103c8t6♥️/硬件驱动/mpu6050/main.canvas",
+    "1-stm32f103c8t6♥️/9-通信/USART通信/用cubemx配置/main.canvas",
     "1-stm32f103c8t6♥️/9-通信/I2C通信/cubemx配置/main.canvas",
-    "1-stm32f103c8t6♥️/1-教程/1-点亮自带的LED/main.canvas"
+    "1-stm32f103c8t6♥️/4-中断/用CubeMX配置外部中断/main.canvas",
+    "1-stm32f103c8t6♥️/0-环境配置/最新版本v2.0.canvas",
+    "1-stm32f103c8t6♥️/10-RTOS/任务间通信/main.canvas",
+    "未命名.canvas"
   ]
 }

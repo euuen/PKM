@@ -19,3 +19,4 @@
 
 1. 【【STM32入门教程】应该是全B站最好的STM32教程了！！】 https://www.bilibili.com/video/BV12v4y1y7uV/?share_source=copy_web&vd_source=d8165ccc8db4f797937e2198122cfca4
 2. https://docs.keysking.com/docs/stm32/intro
+3. 【光子物联stm32f103c8t6】 https://blog.csdn.net/zy2232652/category_12780921.html?spm=1001.2014.3001.5482

@@ -2,7 +2,7 @@
 
 我这里使用的是stm32f407vet6，这个板子自带dac，所以说这里我是不需要自己手动实现dac输出的，也就是说不需要自己做一个r2r网络了。
 
-> [!info] r2r网格参考资料
+> [!info] r2r网格 参考资料
 > 1. 【花几分钟理解DAC】 https://www.bilibili.com/video/BV1YAxkewEQe/?share_source=copy_web&vd_source=d8165ccc8db4f797937e2198122cfca4
 > 2. 【花几分钟理解R-2R阶梯型DAC】 https://www.bilibili.com/video/BV1DEYje6EfD/?share_source=copy_web&vd_source=d8165ccc8db4f797937e2198122cfca4
 
@@ -16,7 +16,9 @@
 
 ![[Pasted image 20251204211523.png]]
 
-可以看到，我这个用的是几个电阻加一个lm358实现的小小电压跟随器
+可以看到，我这个用的是几个电阻加一个lm358实现的小小电压跟随器。这个电路板都没用电容过滤。。。艾。。。且不说这个，其实lm358做这个音频功放其实效果不是很好，因为lm358毕竟还是很垃圾的一个东西的。
+
+后面，我就想，既然用纯功放不行，还不如回归上个世纪的解决方案，用三极管不就好了?
 
 > [!info] 三极管功放 参考资料
 > 1. 【三极管制作喇叭功放】 https://channels.weixin.qq.com/finder-preview/pages/feed?entry_card_type=48&comment_scene=39&appid=51&token=cVZMDwgBEAMaIAgEEhwxNzY0ODUxODA2MzkyNjY0MzM3NC85SVRsdUZnIhgIAxIUCAMSECS5Xdm%2FWhmdxAumBIpggMY%3D&entry_scene=51&eid=export%2FUzFfAgtgekIEAQAAAAAAyMIN72dpfgAAAAstQy6ubaLX4KHWvLEZgBPEgoJkYWEfFLuPzNPgMFkNAcU7G-MEO7H9BRIQOe00LvQbZdOI2Q

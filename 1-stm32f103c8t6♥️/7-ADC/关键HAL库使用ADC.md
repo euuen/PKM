@@ -12,6 +12,10 @@ float voltage = (value / 4095.0f) * 3.3f; // 转换为实际电压
 
 ## 异步读取ADC的值
 
+在cubemx中设置持续转换
+
+![[Pasted image 20251206182933.png]]
+
 ```cpp
 HAL_ADCEx_Calibration_Start(&hadc1); // 校准ADC
 HAL_ADC_Start(&hadc1); // 开始读取ADC
